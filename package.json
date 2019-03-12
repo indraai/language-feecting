@@ -1,0 +1,14 @@
+{
+  "name": "language-feecting",
+  "version": "0.0.0",
+  "description": "The #FEECTING Programming Language",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/indraai/language-feecting",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
