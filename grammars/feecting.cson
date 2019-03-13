@@ -85,7 +85,6 @@
     'endCaptures':
       '0':
         'name': 'entity.function.name.outline.end'
-    'name': 'outline.block'
   }
   {
     'begin': '-- BEGIN:PROGRAM'
@@ -96,7 +95,6 @@
     'endCaptures':
       '0':
         'name': 'constant.program.end'
-    'name': 'program.block'
   }
   {
     'begin': '-- BEGIN:META'
