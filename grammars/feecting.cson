@@ -68,14 +68,6 @@
         'name': 'entity.function.hash.name'
   }
   {
-    'match': '([[A-Z]]*)\\W=(.*)$'
-    'captures':
-      '1':
-        'name': 'local.name'
-      '2':
-        'name': 'local.value'
-  }
-  {
     'begin': '-- BEGIN:META'
     'end': '-- END:META'
     'name': 'punctuation.comment.block'
