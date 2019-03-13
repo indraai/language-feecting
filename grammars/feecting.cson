@@ -9,6 +9,21 @@
 'patterns': [
   {
     'match': '^\\s*//.*$'
-    'name': 'comment'
+    'name': 'comment.line'
+  }
+  {
+    'begin': '///'
+    'end': '///'
+    'name': 'comment.block'
+  }
+  {
+    'match': '\$(\S*)\W=(.*)$'
+    'captures':
+      '1':
+        'name': 'variable.external.name'
+      '2':
+        'name': 'variable.external.value'
+
+    'name': 'variable.external'
   }
 ]
