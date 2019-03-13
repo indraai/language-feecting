@@ -32,7 +32,7 @@
 
     -- BEGIN: META
 
-      Title: PROGRAM TITLE
+      Title: $1
       Version: 1.0
       Author: @$3
       Date: March 5, 2019
