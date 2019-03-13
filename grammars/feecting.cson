@@ -39,12 +39,24 @@
         'name': 'string.user.value'
   }
   {
+    'match': '(\\@\\w*)',
+    'captures':
+      '1':
+        'name': 'constant.user.name'
+  }
+  {
     'match': '(\\#\\S*)\\W=(.*)$'
     'captures':
       '1':
         'name': 'entity.keyword.hash.name'
       '2':
         'name': 'string.hash.value'
+  }
+  {
+    'match': '(\\#\\w*)',
+    'captures':
+      '1':
+        'name': 'entity.keyword.hash.name'
   }
   {
     'match': '([[:upper:]]*)\\W=(.*)$'
@@ -54,4 +66,11 @@
       '2':
         'name': 'string.hash.value'
   }
+  {
+    'match': '([A-Z]*)\\W',
+    'captures':
+      '1':
+        'name': 'entity.function.name'
+  }
+
 ]
