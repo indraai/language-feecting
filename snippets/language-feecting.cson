@@ -3,7 +3,7 @@
 
 '.source.feecting':
   'Base Template':
-    'prefix': 'bt'
+    'prefix': 'feecting'
     'body': '''# $1
 
     ## DISCLAIMER
