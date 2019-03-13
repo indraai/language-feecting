@@ -26,26 +26,10 @@
     'name': 'comment.block'
   }
   {
-    'match': '(\\$\\S*)\\W=(.*)$'
-    'captures':
-      '1':
-        'name': 'variable.external.name'
-      '2':
-        'name': 'variable.external.value'
-  }
-  {
     'match': '(\\$\\w*)',
     'captures':
       '1':
         'name': 'variable.external.name'
-  }
-  {
-    'match': '(\\@\\S*)\\W=(.*)$'
-    'captures':
-      '1':
-        'name': 'constant.user.name'
-      '2':
-        'name': 'constant.user.value'
   }
   {
     'match': '(\\@\\w*)',
@@ -58,14 +42,6 @@
     'captures':
       '1':
         'name': 'entity.function.hash.name'
-  }
-  {
-    'match': '(\\#\\S*)\\W=(.*)$'
-    'captures':
-      '1':
-        'name': 'entity.function.hash.name'
-      '2':
-        'name': 'entity.function.hash.value'
   }
   {
     'begin': '-- BEGIN:META'
