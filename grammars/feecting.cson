@@ -17,7 +17,7 @@
     'name': 'punctuation.comment.block'
   }
   {
-    'match': '\\$(\\S*)\\W=(.*)$'
+    'match': '(\\$\\S*)\\W=(.*)$'
     'captures':
       '1':
         'name': 'variable.external.name'
@@ -25,7 +25,7 @@
         'name': 'string.external.value'
   }
   {
-    'match': '\\@(\\S*)\\W=(.*)$'
+    'match': '(\\@\\S*)\\W=(.*)$'
     'captures':
       '1':
         'name': 'constant.user.name'
@@ -33,7 +33,7 @@
         'name': 'string.user.value'
   }
   {
-    'match': '\\#(\\S*)\\W=(.*)$'
+    'match': '(\\#\\S*)\\W=(.*)$'
     'captures':
       '1':
         'name': 'entity.keyword.hash.name'
