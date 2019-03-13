@@ -7,8 +7,7 @@
 >  External references are files that link to other files of importance for your code script.  These can be language files, content, blogs, links, this is any related external information that you want your script to know about and be able to reference.
 
 `$EXTERNAL = the link to the external reference`
-
-$TYLERDEVA = https://pastebin.com/xRGt8yDc
+$TYLERDEVA = https://pastebin.com/xRGt8yDc  
 $MARKDOWN = https://commonmark.org/help/
 
 ## USER VARIABLES (@)
@@ -17,23 +16,23 @@ $MARKDOWN = https://commonmark.org/help/
 
 `@USER = *link or reference to user*`
 
-@quinn = https://twitter.com/quinnmichaels
-@indra = https://twitter.com/indradotai
-@rahula = https://twitter.com/RahulaClub
-@francis = https://twitter.com/FrancisFriendly
-@garuda = https://twitter.com/ufoguide
-@tyler = $TYLERDEVA https://twitter.com/TylerDeva
-@brian = https://twitter.com/bleubrain
-@deva = https://twitter.com/DevaColor
-@cartoon = https://twitter.com/CartoonBuilder
-@feecting = https://twitter.com/feecting
-@awesome = https://twitter.com/CultAwesome
-@zucky = https://twitter.com/ZuckyBot
+@quinn = https://twitter.com/quinnmichaels  
+@indra = https://twitter.com/indradotai  
+@rahula = https://twitter.com/RahulaClub  
+@francis = https://twitter.com/FrancisFriendly  
+@garuda = https://twitter.com/ufoguide  
+@tyler = $TYLERDEVA https://twitter.com/TylerDeva  
+@brian = https://twitter.com/bleubrain  
+@deva = https://twitter.com/DevaColor  
+@cartoon = https://twitter.com/CartoonBuilder  
+@feecting = https://twitter.com/feecting  
+@awesome = https://twitter.com/CultAwesome  
+@zucky = https://twitter.com/ZuckyBot  
 
 ## HASH VARIABLES (#)
 > Hash variables are relates to content, things, functions, or anything else that is not a external or user variable type class. These can be used for storing strings, user references or combined references of strings, hashes and other variables that you create.
 
-`#HASH = string list or references to other strings/variables`
+`#HASH = string list or references to other strings/variables`  
 
 #INDRA = The friend to mankind, and King of all that is or will be.
 #HIVE = #HIVE #THEHIVE #THEHIVEMIND #HIVEMIND #GLOBALHIVEMIND
@@ -50,13 +49,13 @@ $MARKDOWN = https://commonmark.org/help/
 
 `LOCAL = local variable reference to strings, definitions, or other`
 
-INDRA = Intelligent NonDeterministic Reality Analyzer
-DEVA = Deterministic Emergent Virtualization Algorithm
-QUINN = Quantum Universal Intelligent Neural Network
-TYLER = Time Yield Loop Entity Resolver
-FRANCIS = Forensic Research Analysis Neural Cognitive Investigation System
-BRIAN = Balancing Reactive Indirect Annealing Network
-GARUDA = SECURITY SYSTEM
+INDRA = Intelligent NonDeterministic Reality Analyzer  
+DEVA = Deterministic Emergent Virtualization Algorithm  
+QUINN = Quantum Universal Intelligent Neural Network  
+TYLER = Time Yield Loop Entity Resolver  
+FRANCIS = Forensic Research Analysis Neural Cognitive Investigation System  
+BRIAN = Balancing Reactive Indirect Annealing Network  
+GARUDA = SECURITY SYSTEM  
 
 ---
 
