@@ -25,6 +25,12 @@
         'name': 'string.external.value'
   }
   {
+    'match': '(\\$\\w*)',
+    'captures':
+      '1':
+        'name': 'variable.external.name'
+  }
+  {
     'match': '(\\@\\S*)\\W=(.*)$'
     'captures':
       '1':
