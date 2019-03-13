@@ -8,13 +8,23 @@
 ]
 'patterns': [
   {
-    'match': '^\\s*//.*$'
-    'name': 'comment.line'
+    'match': '(^\/\/.*)$'
+    'beginCaptures':
+      '0':
+        'name': 'punctuation.definition.comment.line'
+    'end': '$'
+    'name': 'comment.line.double-slash'
   }
   {
     'begin': '///'
+    'beginCaptures':
+      '0':
+        'name': 'punctuation.definition.comment.begin'
     'end': '///'
-    'name': 'punctuation.comment.block'
+    'endCaptures':
+      '0':
+        'name': 'punctuation.definition.comment.end'
+    'name': 'comment.block'
   }
   {
     'match': '(\\$\\S*)\\W=(.*)$'
@@ -65,5 +75,10 @@
         'name': 'entity.function.name'
       '2':
         'name': 'string.hash.value'
+  }
+  {
+    'begin': '-- BEGIN:META'
+    'end': '-- END:META'
+    'name': 'punctuation.comment.block'
   }
 ]
