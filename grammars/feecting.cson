@@ -80,22 +80,22 @@
     'begin': '-- BEGIN:OUTLINE'
     'beginCaptures':
       '0':
-        'name': 'definition.outline.begin'
+        'name': 'entity.function.name.outline.begin'
     'end': '-- END:OUTLINE'
     'endCaptures':
       '0':
-        'name': 'definition.outline.end'
-    'name': 'program.block'
+        'name': 'entity.function.name.outline.end'
+    'name': 'outline.block'
   }
   {
     'begin': '-- BEGIN:PROGRAM'
     'beginCaptures':
       '0':
-        'name': 'definition.program.begin'
+        'name': 'constant.program.begin'
     'end': '-- END:PROGRAM'
     'endCaptures':
       '0':
-        'name': 'definition.program.end'
+        'name': 'constant.program.end'
     'name': 'program.block'
   }
   {
