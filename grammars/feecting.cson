@@ -29,19 +29,19 @@
     'match': '(\\$\\w*)',
     'captures':
       '1':
-        'name': 'variable.external.name'
+        'name': 'constant.external.name'
   }
   {
     'match': '(\\@\\w*)',
     'captures':
       '1':
-        'name': 'constant.user.name'
+        'name': 'entity.function.user.name'
   }
   {
     'match': '(\\#\\w*)',
     'captures':
       '1':
-        'name': 'entity.function.hash.name'
+        'name': 'variable.hash.name'
   }
   {
     'begin': '-- BEGIN:META'
