@@ -31,7 +31,7 @@
       '1':
         'name': 'variable.external.name'
       '2':
-        'name': 'string.external.value'
+        'name': 'variable.external.value'
   }
   {
     'match': '(\\$\\w*)',
@@ -45,7 +45,7 @@
       '1':
         'name': 'constant.user.name'
       '2':
-        'name': 'string.user.value'
+        'name': 'constant.user.value'
   }
   {
     'match': '(\\@\\w*)',
@@ -59,7 +59,7 @@
       '1':
         'name': 'entity.function.hash.name'
       '2':
-        'name': 'string.hash.value'
+        'name': 'entity.function.hash.value'
   }
   {
     'match': '(\\#\\w*)',
@@ -73,7 +73,7 @@
       '1':
         'name': 'local.name'
       '2':
-        'name': 'string.local.value'
+        'name': 'local.value'
   }
   {
     'begin': '-- BEGIN:META'
