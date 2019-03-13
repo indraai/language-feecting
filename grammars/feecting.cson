@@ -77,26 +77,6 @@
         'name': 'text.local.value'
   }
   {
-    'begin': '-- BEGIN:OUTLINE'
-    'beginCaptures':
-      '0':
-        'name': 'entity.function.name.outline.begin'
-    'end': '-- END:OUTLINE'
-    'endCaptures':
-      '0':
-        'name': 'entity.function.name.outline.end'
-  }
-  {
-    'begin': '-- BEGIN:PROGRAM'
-    'beginCaptures':
-      '0':
-        'name': 'constant.program.begin'
-    'end': '-- END:PROGRAM'
-    'endCaptures':
-      '0':
-        'name': 'constant.program.end'
-  }
-  {
     'begin': '-- BEGIN:META'
     'end': '-- END:META'
     'name': 'punctuation.comment.block'
