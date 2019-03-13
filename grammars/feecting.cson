@@ -23,7 +23,5 @@
         'name': 'variable.external.name'
       '2':
         'name': 'variable.external.value'
-
-    'name': 'variable.external'
   }
 ]
