@@ -1,9 +1,9 @@
 # If you want some example snippets, check out:
 # https://github.com/atom/language-javascript/blob/master/snippets/javascript.cson
 
-'.text.feecting':
-  'Template':
-    'prefix': 'base'
+'.source.feecting':
+  'Base Template':
+    'prefix': 'bt'
     'body': '''# $1
 
     ## DISCLAIMER

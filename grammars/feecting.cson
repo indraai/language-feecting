@@ -4,11 +4,11 @@
 'scopeName': 'source.feecting'
 'name': 'Feecting'
 'fileTypes': [
-  'extension'
+  'feecting'
 ]
 'patterns': [
   {
-    'match': '^\\s*@@.*$'
+    'match': '^\\s*//.*$'
     'name': 'comment'
   }
 ]

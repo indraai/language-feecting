@@ -3,4 +3,4 @@
 
 '.source.feecting':
   'editor':
-    'commentStart': '@@ '
+    'commentStart': '// '
