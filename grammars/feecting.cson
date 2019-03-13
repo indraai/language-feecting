@@ -54,18 +54,18 @@
         'name': 'constant.user.name'
   }
   {
+    'match': '(\\#\\w*)',
+    'captures':
+      '1':
+        'name': 'entity.function.hash.name'
+  }
+  {
     'match': '(\\#\\S*)\\W=(.*)$'
     'captures':
       '1':
         'name': 'entity.function.hash.name'
       '2':
         'name': 'entity.function.hash.value'
-  }
-  {
-    'match': '(\\#\\w*)',
-    'captures':
-      '1':
-        'name': 'entity.function.hash.name'
   }
   {
     'begin': '-- BEGIN:META'
