@@ -1,0 +1,41 @@
+# Hello World
+
+## DISCLAIMER
+> This is my Hello World program
+
+// VARIABLES
+$FEECTING = https://github.com/indraai/language-feecting/
+
+@indra = https://github.com/indraai
+
+-- BEGIN:OUTLINE
+
+  1. Who? @indra
+  2. What? Hello World
+  3. When? Right NOW
+  4. Where? Online
+  5. Why? Cause it's cool
+
+-- END:OUTLINE
+
+-- BEGIN:PROGRAM
+
+Hello World... I'm @indra
+
+-- END:PROGRAM
+
+-- BEGIN: META
+
+  Title: Hello World
+  Version: 1.0
+  Author: @indra
+  Date: March 5, 2019
+  Copyright: #FEECTING Copyright (c)2019 Quinn Michaels. All Rights Reserved
+  License:
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this PROGRAM and associated documentation files (the "PROGRAM"), to deal in the PROGRAM without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM is furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the PROGRAM.
+
+    THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR OTHER DEALINGS IN THE PROGRAM.
+
+-- END: META

@@ -87,7 +87,7 @@ While MEMBER in #TEAM > send MEMBER #FEECTING;
     Version: #Q
     Author: @quinn
     Date: March 2, 2019
-    Updated: March 8, 2019
+    Updated: March 13, 2019
     Link: https://pastebin.com/JkirV7QN
     Copyright: Copyright (c)2019 Quinn Michaels. All Rights Reserved
 
