@@ -67,7 +67,7 @@
         'name': 'string.hash.value'
   }
   {
-    'match': '([A-Z]*)\\W',
+    'match': '([A-Z]*)',
     'captures':
       '1':
         'name': 'entity.function.name'
