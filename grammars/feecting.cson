@@ -36,7 +36,7 @@
     'match': '\\#(\\S*)\\W=(.*)$'
     'captures':
       '1':
-        'name': 'entity.hash.name'
+        'name': 'entity.keyword.hash.name'
       '2':
         'name': 'string.hash.value'
   }
