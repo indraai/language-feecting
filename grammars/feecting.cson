@@ -40,4 +40,12 @@
       '2':
         'name': 'string.hash.value'
   }
+  {
+    'match': '([[:upper:]]*)\\W=(.*)$'
+    'captures':
+      '1':
+        'name': 'entity.function.name'
+      '2':
+        'name': 'string.hash.value'
+  }
 ]
