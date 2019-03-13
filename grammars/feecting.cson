@@ -22,6 +22,22 @@
       '1':
         'name': 'variable.external.name'
       '2':
-        'name': 'variable.external.value'
+        'name': 'string.external.value'
+  }
+  {
+    'match': '\\@(\\S*)\\W=(.*)$'
+    'captures':
+      '1':
+        'name': 'variable.user.name'
+      '2':
+        'name': 'string.user.value'
+  }
+  {
+    'match': '\\#(\\S*)\\W=(.*)$'
+    'captures':
+      '1':
+        'name': 'variable.hash.name'
+      '2':
+        'name': 'string.hash.value'
   }
 ]
