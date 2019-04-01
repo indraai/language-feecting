@@ -44,19 +44,19 @@
   }
   {
     'match': '-- BEGIN:OUTLINE'
-    'name': 'outline.begin.comment.line'
+    'name': 'outline.begin.string.line'
   }
   {
     'match': '-- END:OUTLINE'
-    'name': 'outline.end.comment.line'
+    'name': 'outline.end.string.line'
   }
   {
     'match': '-- BEGIN:PROGRAM'
-    'name': 'program.begin.comment.line'
+    'name': 'program.begin.string.line'
   }
   {
     'match': '-- END:PROGRAM'
-    'name': 'program.end.comment.line'
+    'name': 'program.end.string.line'
   }
   {
     'match': '(\\$\\w*)',
