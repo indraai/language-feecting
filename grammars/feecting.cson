@@ -18,14 +18,14 @@
     'match': '(https:\/\/.*)\\s|$'
     'captures':
       '0':
-        'name': 'hyperlink.https'
+        'name': 'hyperlink.https.link.underline'
     'name': 'hyperlink'
   }
   {
     'match': '(http:\/\/.*)\\s|$'
     'captures':
       '0':
-        'name': 'hyperlink.http'
+        'name': 'hyperlink.http.link.underline'
     'name': 'hyperlink'
   }
   {
