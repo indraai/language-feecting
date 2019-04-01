@@ -11,19 +11,34 @@
     'match': '(\/\/.*)$'
     'captures':
       '0':
-        'name': 'punctuation.definition.comment.line'
+        'name': 'comment.line'
     'name': 'comment.line.double-slash'
   }
   {
     'begin': '///'
-    'beginCaptures':
-      '0':
-        'name': 'punctuation.definition.comment.begin'
     'end': '///'
-    'endCaptures':
-      '0':
-        'name': 'punctuation.definition.comment.end'
     'name': 'comment.block'
+  }
+  {
+    'begin': '-- BEGIN:META'
+    'end': '-- END:META'
+    'name': 'meta.block.comment'
+  }
+  {
+    'match': '-- BEGIN:OUTLINE'
+    'name': 'outline.begin.comment.line'
+  }
+  {
+    'match': '-- END:OUTLINE'
+    'name': 'outline.end.comment.line'
+  }
+  {
+    'match': '-- BEGIN:PROGRAM'
+    'name': 'program.begin.comment.line'
+  }
+  {
+    'match': '-- END:PROGRAM'
+    'name': 'program.end.comment.line'
   }
   {
     'match': '(\\$\\w*)',
@@ -42,10 +57,5 @@
     'captures':
       '1':
         'name': 'variable.hash.name'
-  }
-  {
-    'begin': '-- BEGIN:META'
-    'end': '-- END:META'
-    'name': 'punctuation.comment.block'
   }
 ]
