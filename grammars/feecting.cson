@@ -15,10 +15,17 @@
     'name': 'comment.line.double-slash'
   }
   {
-    'match': '(https?:\/\/\\w+.\\w+)\\s|$'
+    'match': '(https:\/\/\\w+.\\w+)\\s|$'
     'captures':
       '0':
-        'name': 'hyperlink.link.underline.entity'
+        'name': 'hyperlink.link.underline.entity.https'
+    'name': 'hyperlink'
+  }
+  {
+    'match': '(http:\/\/\\w+.\\w+)\\s|$'
+    'captures':
+      '0':
+        'name': 'hyperlink.link.underline.entity.http'
     'name': 'hyperlink'
   }
   {
