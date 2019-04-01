@@ -8,11 +8,25 @@
 ]
 'patterns': [
   {
-    'match': '(\/\/.*)$'
+    'match': '^|\w(\/\/.*)$'
     'captures':
       '0':
         'name': 'comment.line'
     'name': 'comment.line.double-slash'
+  }
+  {
+    'match': '(https:\/\/.*)\\s|$'
+    'captures':
+      '0':
+        'name': 'hyperlink.https'
+    'name': 'hyperlink'
+  }
+  {
+    'match': '(http:\/\/.*)\\s|$'
+    'captures':
+      '0':
+        'name': 'hyperlink.http'
+    'name': 'hyperlink'
   }
   {
     'begin': '///'
