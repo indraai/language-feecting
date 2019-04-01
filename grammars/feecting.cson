@@ -34,6 +34,10 @@
     'name': 'comment.block'
   }
   {
+    'match': '^## DISCLAIMER'
+    'name': 'disclaimer.string'
+  }
+  {
     'begin': '-- BEGIN:META'
     'end': '-- END:META'
     'name': 'meta.block.comment'
