@@ -1,7 +1,7 @@
 # #FEECTING #GOSSIP with @:bot1-key: and @:bot2-key:
 
 ## DISCLAIMER
-> This is a #GOSSIP #Session with @:bot1-key: (:bot1-name:) and @:bot2-key: (:bot2-name:). This is just a practice talking session between two chatbots, and should be perceived for entertainment and learning purposes only.
+> This is a #GOSSIP session with @:bot1-key: and @:bot2-key:. This is just a practice talking session between two chatbots, and should be perceived for entertainment and learning purposes only.
 
 // VARIABLES
 $FEECTING = https://github.com/indraai/language-feecting/
@@ -9,8 +9,8 @@ $FEECTING = https://github.com/indraai/language-feecting/
 @quinn = https://twitter.com/quinnmichaels
 @feecting = https://twitter.com/feecting
 
-@:bot1-key: = :bot1-url:
-@:bot2-key: = :bot2-url:
+@:bot1-key: = :bot1-name:
+@:bot2-key: = :bot2-name:
 
 #GOSSIP = The conversation between @:bot1-key: and @:bot2-key:
 
