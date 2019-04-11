@@ -80,8 +80,8 @@
     'match': '(^|\t+)-\s(\w+):\s(.*)'
     'captures':
       '1':
-        'name': 'line-item.label.variable'
+        'name': 'item.label.constant'
       '2':
-        'name': 'line-item.content.string'
+        'name': 'item.content.string'
   }
 ]
