@@ -62,25 +62,25 @@
     'match': '(\\$\\w*)',
     'captures':
       '1':
-        'name': 'var.external.constant'
+        'name': 'variables.external.constant'
   }
   {
     'match': '(\\@\\w*)',
     'captures':
       '1':
-        'name': 'var.user.entity.function'
+        'name': 'variables.user.entity.function'
   }
   {
     'match': '(\\#\\w*)',
     'captures':
       '1':
-        'name': 'var.hash.variable'
+        'name': 'variables.hash.variable'
   }
   {
     'match': '-\\s(\\w*):\\s(.*)'
     'captures':
       '1':
-        'name': 'line_item.label.constant'
+        'name': 'line_item.label.keyword'
       '2':
         'name': 'line_item.value'
   }
