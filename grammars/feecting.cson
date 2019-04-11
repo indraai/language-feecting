@@ -83,15 +83,19 @@
         'name': 'valueLabel.keyword'
   }
   {
-    'match': '^(if|then|else|finally):'
+    'match': '(^|\\t+)(if|then|else|finally):'
     'captures':
       '1':
+        'name': 'indent'
+      '2':
         'name': 'logic.string'
   }
   {
-    'match': '^(for|while):'
+    'match': '(^|\\t+)(for|while):'
     'captures':
       '1':
+        'name': 'indent'
+      '2':
         'name': 'iterator.constant'
   }
 ]
