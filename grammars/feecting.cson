@@ -82,6 +82,6 @@
       '1':
         'name': 'line_item.label.constant'
       '2':
-        'name': 'line_item.content.string'
+        'name': 'line_item.value'
   }
 ]
