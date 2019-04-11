@@ -80,8 +80,8 @@
     'match': '-\\s(\\w*):\\s(.*)'
     'captures':
       '1':
-        'name': 'item.label.parameter'
+        'name': 'line_item.label.constant'
       '2':
-        'name': 'item.content'
+        'name': 'line_item.content.string'
   }
 ]
