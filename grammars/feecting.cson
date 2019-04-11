@@ -77,7 +77,7 @@
         'name': 'var.hash.variable'
   }
   {
-    'match': '(^|\t+)-\s(\w+):\s(.*)'
+    'match': '(^|\\t+)-\\s(\\w+):\\s(.*)'
     'captures':
       '1':
         'name': 'item.label.constant'
