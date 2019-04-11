@@ -59,6 +59,14 @@
     'name': 'program.end.string.line'
   }
   {
+    'match': '-\\s(\\w*):\\s(.*)'
+    'captures':
+      '1':
+        'name': 'item.label.constant'
+      '2':
+        'name': 'item.content.string'
+  }
+  {
     'match': '(\\$\\w*)',
     'captures':
       '1':
@@ -75,13 +83,5 @@
     'captures':
       '1':
         'name': 'var.hash.variable'
-  }
-  {
-    'match': '-\\s(\\w*):\\s(.*)'
-    'captures':
-      '1':
-        'name': 'item.label.constant'
-      '2':
-        'name': 'item.content.string'
   }
 ]
