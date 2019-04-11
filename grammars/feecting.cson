@@ -82,4 +82,16 @@
       '1':
         'name': 'valueLabel.keyword'
   }
+  {
+    'match': '\^(if|then|else|finally):'
+    'captures':
+      '1':
+        'name': 'logic.string'
+  }
+  {
+    'match': '\^(for|while):'
+    'captures':
+      '1':
+        'name': 'iterator.constant'
+  }
 ]

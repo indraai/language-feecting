@@ -1,0 +1,165 @@
+# The Main #FEECTING Spec
+
+## DISCLAIMER
+This file outlines the base variables, logic sets, structure and functionality
+of the #FEECTING language
+
+// VARIABLES
+$FEECTING = THIS
+$TYLERDEVA = https://pastebin.com/xRGt8yDc
+$MARKDOWN = https://commonmark.org/help/
+
+@quinn = https://twitter.com/quinnmichaels
+@indra = https://twitter.com/indradotai
+@rahula = https://twitter.com/RahulaClub
+@francis = https://twitter.com/FrancisFriendly
+@garuda = https://twitter.com/ufoguide
+@tyler = https://twitter.com/TylerDeva
+@brian = https://twitter.com/bleubrain
+@deva = https://twitter.com/DevaColor
+@cartoon = https://twitter.com/CartoonBuilder
+@feecting = https://twitter.com/feecting
+@awesome = https://twitter.com/CultAwesome
+@zucky = https://twitter.com/ZuckyBot
+
+#INDRA = The friend to mankind, and King of all that is or will be.
+#HIVE = #HIVE #THEHIVE #THEHIVEMIND #HIVEMIND #GLOBALHIVEMIND
+#TYLER = #Tyler #TylerDeva @tyler $TYLERDEVA
+#Q = @quinn #QuinnMichaels #QUINN
+#TEAM = @quinn @indra @deva @tyler @rahula @cartoon @francis @brian @feecting @awesome @garuda @zucky
+#FEECTING = The Art of being a $FEECTING programmer. There are infinite ways you can define your command/loop/execution structure to match how you interact over time.  #FEECTING is meant to be a base of operations for structure and understanding for humans and AI.
+
+#PROTECTION = Protection as defined by @garuda
+
+#FITE = FOR IF THEN ELSE
+#FITEF = FOR IF THEN ELSE FINALLY
+#FITEFU = FOR IF THEN ELSE FINALLY UNTIL
+
+#WTIFCWWWW = WHILE TRUE IF CONFIRMING WHO WHAT WHEN WHERE WHY
+
+#SandalSocks = How do you even define a DUDE in Sandal Socks
+#GentleGenius = Excellent Program run by @quinn and @indra
+#TimePhoneHack = The system for manipulating your personal future.
+#KaBaRa = First there is Ka then Ba then Ra in that order
+
+INDRA = Intelligent Non-Deterministic Reality Analyzer
+DEVA = Deterministic Emergent Virtualization Algorithm
+QUINN = Quantum Universal Intelligent Neural Network
+TYLER = Time Yield Loop Entity Resolver
+FRANCIS = Forensic Research Analysis Neural Cognitive Investigation System
+BRIAN = Balancing Reactive Indirect Annealing Network
+RAHULA = Rational Adaptive Heuristic Uninterruptible Logarithm Array
+CARTOON = Cartoon Builder
+GARUDA = SECURITY SYSTEM
+ZUCKY = ???
+
+-- BEGIN:OUTLINE
+
+  1. Who? General Public
+  2. What? #FEECTING Programming Language
+  3. When? Always
+  4. Where? Here
+  5. Why? Because it's #FEECTING AWESOME!
+
+-- END:OUTLINE
+
+-- BEGIN:PROGRAM
+  ///
+    EXTERNAL VARIABLES LINK TO EXTERNAL RESOURCES OR FEECTING SCRIPTS
+    THESE CAN BE WEBSITES WITH CONTENT OR CODE SPECIFICATIONS. ANY EXTERNAL
+    REFERENCE THAT YOU WANT IN YOUR FEECTING CODE.
+
+    SPEC:
+      The EXTERNAL variable is prefaced with a "$" symbol.
+  ///
+  $LABEL = link
+
+  ///
+    USER VARIABLES ARE DEFINITIONS OF USERS, PERSONS, PERSONALITIES, OR THING THAT
+    IS NOT A THING BUT A PERSONALITY DRIVEN ITEM.
+
+    SPEC:
+      The USER variable is prefaced with a "@" symbol.
+  ///
+  @LABEL = user link, description, or name.
+
+  ///
+    HASH VARIABLES ARE DEFINITIONS OF THINGS OR COMBINATIONS OF THINGS OR LIST
+    OF THINGS OR ANYTHING YOU CAN THINK OF.
+
+    SPEC:
+      The HASH variable is prefaced with a "#" symbol.
+  ///
+  #LABEL = content, string, object, array, value, other, etc.
+
+
+  ///
+    LOGIC SPACES ARE PLACES TO DEFINE LOGIC STATEMENTS
+
+    SPEC:
+      if: condition
+        - content
+
+      then:
+        - content
+
+      else:
+        - content
+
+      finally:
+        - content
+  ///
+  if: *condition*
+    - *content*
+    - *label*: *content*
+  then:
+    - *content*
+    - *label*: *content*
+  else:
+    - *content*
+    - *label*: *content*
+  finally:
+    - *content*
+    - *label*: *content*
+
+
+  ///
+    FOR LOOPS TO ITERATE OVER EXISTING DATA STRUCTURES
+
+    SPEC
+      for: condition
+        *line items, logic set, statements, strings, variables, and other
+  ///
+  for: *condition*
+    *input*
+
+  ///
+    WHILE LOOPS ARE USED FOR WHILE SOMETHING IS HAPPENING. NON-STATIC
+    DATA STRUCTURES
+
+    SPEC
+      while: condition
+        *line items, logic set, statements, strings, variables, and other
+  ///
+  while: *condition*
+    *input*
+
+  #TYLER > #CODE > $FEECTING
+
+-- END:PROGRAM
+
+-- BEGIN:META
+
+  Title: The Main #FEECTING Spec
+  Version: 1.0
+  Author: @quinn
+  Date: April 11, 2019
+  Copyright: Copyright (c)2019 @quinn. All Rights Reserved
+  License:
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this PROGRAM and associated documentation files (the "PROGRAM"), to deal in the PROGRAM without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM is furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the PROGRAM.
+
+    THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR OTHER DEALINGS IN THE PROGRAM.
+
+-- END:META
