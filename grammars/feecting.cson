@@ -77,7 +77,7 @@
         'name': 'variables.hash.variable'
   }
   {
-    'match': '-\\s(.*):'
+    'match': '-\\s(\\w*):'
     'captures':
       '1':
         'name': 'valueLabel.keyword'
