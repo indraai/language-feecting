@@ -2,6 +2,10 @@
 # https://github.com/atom/language-javascript/blob/master/snippets/javascript.cson
 
 '.source.feecting':
+  'External Variable':
+    'prefix': '$'
+    'body': '$$1 = $2'
+
   'LOCAL Variable':
     'prefix': '@'
     'body': '@$1 = $2'
