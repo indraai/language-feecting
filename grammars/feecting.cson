@@ -90,6 +90,7 @@
   }
   {
     'match': '(for|while):'
+    'captures':
       '1':
         'name': 'iterator.constant'
   }
