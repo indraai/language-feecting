@@ -5,8 +5,8 @@ This file outlines the base variables, logic sets, structure and functionality
 of the #FEECTING language
 
 // VARIABLES
-$FEECTING = THIS
-$TYLERDEVA = https://pastebin.com/xRGt8yDc
+$FEECTING = https://github.com/indraai/language-feecting/
+$TYLERDEVA = https://github.com/indraai/language-feecting/blob/master/src/tyler.feecting
 $MARKDOWN = https://commonmark.org/help/
 
 @quinn = https://twitter.com/quinnmichaels
