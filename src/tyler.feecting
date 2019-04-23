@@ -13,14 +13,12 @@ $FEECTING = https://github.com/indraai/language-feecting/blob/master/src/main.fe
 
 -- BEGIN:OUTLINE
 
-  1. #IDEA: #IMAGINE
-  2. #IDEA: #CREATE
-  3. #IDEA: #GENERATOR
-  4. #PHASES: Development Phases
-  5. #WHO: are the Artists
-  6. #ORGANIZING
-  7. #MEMES
-  8. #SOURCES
+  1. #IDEAS
+  2. #PHASES
+  3. #WHO
+  4. #ORGANIZING
+  5. #MEMES
+  6. #SOURCES
 
 -- END:OUTLINE
 
@@ -28,8 +26,8 @@ $FEECTING = https://github.com/indraai/language-feecting/blob/master/src/main.fe
 
   - #IDEAS: The base ideas we are working with.
     - #IMAGINE
-        - IMAGINE: we plant Ideas.
-        - IMAGINE: we become seeds to those Ideas.
+        - IMAGINE: we plant #IDEAS.
+        - IMAGINE: we become seeds to those #IDEAS.
         - IMAGINE: we sow the world with those seeds.
 
         - IMAGINE: we finally find the COURAGE needed
