@@ -6,7 +6,10 @@
 // VARIABLES
 $FEECTING = https://github.com/indraai/language-feecting/
 
+// Author Variable
 :author:
+
+// Variable Scope
 :var-user:
 :var-hash:
 :var-local:
@@ -54,7 +57,7 @@ $FEECTING = https://github.com/indraai/language-feecting/
     the rights to use, copy, modify, merge, publish, distribute, sublicense,
     and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM
     is furnished to do so, subject to the following conditions:
-
+t
     The above copyright notice and this permission notice shall be included
     in all copies or substantial portions of the PROGRAM.
 
