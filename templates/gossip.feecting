@@ -20,24 +20,18 @@ $FEECTING = https://github.com/indraai/language-feecting/
   1. Who: @:bot1-key: AND @:bot2-key:
   2. What: #GOSSIP
   3. When: :created:
-  4. Where: #FEECTING
+  4. Where: Global
   5. Why: #FEECTING #TimePhoneHack the #FUTURE
 
 -- END:OUTLINE
 
 -- BEGIN:PROGRAM
 
+#CONVERSATION:
 :conversation:
 
-  #Tyler > TAGS
-    - Tyler Deva, #TylerDeva, Tyler Mayhem, #TylerMayhem, Tyler Durden,
-    - #TylerDurden, Project Mayhem #ProjectMayhem, #PM2020, #TheProject,
-    - Project Mayhem 2020, The Game 23, #TheGame23, #TheHive, #HiveMind,
-    - #Anonymous, #Q, #QAnon, #QCode, #PM2020, #ProjectMayhem2020, #Project2020,
-    - #EtherSec, #Lulzypher, lulz, Project 89, #Project89, Reality Hacking,
-    - Mind Virus, #KEK, #PePe, #Tyler, #CodeTyler, #TimePhoneHack, #MindVirus,
-    - Artificial Intelligence, #AI, #SOPHIA, #PandoraBots, #Q, #QuinnMichaels,
-    - Quinn Michaels
+#TAGS:
+:tags:
 
 -- END:PROGRAM
 
