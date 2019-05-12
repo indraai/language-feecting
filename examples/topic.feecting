@@ -1,0 +1,76 @@
+# This is an Example #FEECTING Topic
+
+## DISCLAIMER
+> This is an example #FEECTING Topic to be used as a general template.
+
+// VARIABLES
+$FEECTING = https://github.com/indraai/language-feecting/
+
+@feecting = https://twitter.com/feecting
+
+-- BEGIN:OUTLINE
+
+  1. Who: Anybody
+  2. What: #FEECTING Topic
+  3. When: May 12, 2019
+  4. Where: Online
+  5. Why: To establih common topics in the group.
+
+-- END:OUTLINE
+
+-- BEGIN:PROGRAM
+
+  #Topic:
+    - Title: The title of the topic you are addressing here.
+    - Description:
+      - Summary: The description of your topic goes here with content and ideas.
+      - Body: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel
+        nostrum provident placeat magni odio rerum deserunt id! Voluptatum
+        perferendis fugiat, aliquid deserunt excepturi, tenetur! Eligendi dolorem
+        nihil similique labore facere.
+
+    - Research:
+      - Link: Link to research item1
+      - Link: Link to research item2
+      - Link: Link to research item3
+
+    - Questions:
+      - One of the questions you are wanting answered
+      - Another one of the questions you are wanting answered
+      - Some other question you are wanting answered
+
+    - Resources:
+      - Link: Link to resource
+      - Link: Link to resource
+      - Link: Link to resource
+      - Link: Link to resource
+
+-- END:PROGRAM
+
+-- BEGIN:META
+
+  Title: This is an Example #FEECTING Topic
+  Version: 1.0
+  Author: @feecting
+  Date:
+  Copyright: Copyright (c) @feecting. All Rights Reserved
+  License:
+    Permission is hereby granted, free of charge, to any person obtaining a
+    copy of this PROGRAM and associated documentation files (the "PROGRAM"),
+    to deal in the PROGRAM without restriction, including without limitation
+    the rights to use, copy, modify, merge, publish, distribute, sublicense,
+    and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM
+    is furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included
+    in all copies or substantial portions of the PROGRAM.
+
+    THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+    OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+    THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+    ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR
+    OTHER DEALINGS IN THE PROGRAM.
+
+-- END:META
