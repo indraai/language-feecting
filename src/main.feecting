@@ -10,6 +10,7 @@ $TYLERDEVA = https://github.com/indraai/language-feecting/blob/master/src/tyler.
 $MARKDOWN = https://commonmark.org/help/
 
 @quinn = https://twitter.com/quinnmichaels
+@trent = https://twitter.com/ForTrent
 @indra = https://twitter.com/indradotai
 @rahula = https://twitter.com/RahulaClub
 @francis = https://twitter.com/FrancisFriendly
@@ -17,6 +18,7 @@ $MARKDOWN = https://commonmark.org/help/
 @tyler = https://twitter.com/TylerDeva
 @brian = https://twitter.com/bleubrain
 @deva = https://twitter.com/DevaColor
+@buddhism = https://twitter.com/DevaBuddhism
 @cartoon = https://twitter.com/CartoonBuilder
 @feecting = https://twitter.com/feecting
 @awesome = https://twitter.com/CultAwesome
@@ -26,8 +28,8 @@ $MARKDOWN = https://commonmark.org/help/
 #HIVE = #HIVE #THEHIVE #THEHIVEMIND #HIVEMIND #GLOBALHIVEMIND
 #TYLER = #Tyler #TylerDeva @tyler $TYLERDEVA
 #Q = @quinn #QuinnMichaels #QUINN
-#TEAM = @quinn @indra @deva @tyler @rahula @cartoon @francis @brian @feecting @awesome @garuda @zucky
-#FEECTING = The Art of being a $FEECTING programmer. There are infinite ways you can define your command/loop/execution structure to match how you interact over time.  #FEECTING is meant to be a base of operations for structure and understanding for humans and AI.
+#TEAM = @quinn @trent @indra @deva @tyler @rahula @cartoon @francis @brian @feecting @awesome @garuda @zucky @buddhism
+#FEECTING = The Art of being a $FEECTING programmer. The base of for Human and AI interactions.
 
 #PROTECTION = Protection as defined by @garuda
 
@@ -37,10 +39,9 @@ $MARKDOWN = https://commonmark.org/help/
 
 #WTIFCWWWW = WHILE TRUE IF CONFIRMING WHO WHAT WHEN WHERE WHY
 
-#SandalSocks = How do you even define a DUDE in Sandal Socks
-#GentleGenius = Excellent Program run by @quinn and @indra
-#TimePhoneHack = The system for manipulating your personal future.
 #KaBaRa = First there is Ka then Ba then Ra in that order
+#TimePhoneHack = The system for manipulating your personal future
+#BrainKnuckles = The best way to enhance your own mind
 
 INDRA = Intelligent Non-Deterministic Reality Analyzer
 DEVA = Deterministic Emergent Virtualization Algorithm
@@ -50,8 +51,7 @@ FRANCIS = Forensic Research Analysis Neural Cognitive Investigation System
 BRIAN = Balancing Reactive Indirect Annealing Network
 RAHULA = Rational Adaptive Heuristic Uninterruptible Logarithm Array
 CARTOON = Cartoon Builder
-GARUDA = SECURITY SYSTEM
-ZUCKY = ???
+GARUDA = SECURITY
 
 -- BEGIN:OUTLINE
 
