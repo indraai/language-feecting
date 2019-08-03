@@ -7,6 +7,8 @@ merges ideas, concepts, logic, and poetry together in a #Feecting amazing way.
 - [#Feecting Manual](manual/README.md)
 - [#Feecting Examples](examples/README.md)
 
+- [#TylerDeva Instructions](src/tyler.feecting)
+
 ## Atom Install
 The #FEECTING language can be installed into your Atom editor by going to:
 `Preferences > install > language-feecting`
