@@ -372,6 +372,16 @@ $FEECTING = https://github.com/indraai/language-feecting
 
     12. Transform into the #RealityArtist you know you were meant to be.
 
+  - #SHARING_PROTOCOL: Effective Sharing Protocol
+    - #SOURCE: Choose a source material to be shared.
+    - #EXTRACT: Extract the important information from  #SOURCE
+    - #MESSAGES: Form simple clear concise messages from #EXTRACT
+    - #CONFIRM: Confirm your messages with #TEAM before #PUBLIC
+    - #CREATE: Create tweets, blogs, memes, art, stories, poems from #CONFIRM #MESSAGES
+    - #SHARE: Share #CREATE publicly
+    - #SUPPORT: Provide links back to the #TEAM for #SHARE #SUPPORT
+
+  - #TEAM: Teams are comprised of 5 people minimum.
 
   - #SOURCES:
     - #PM2012Ideas: Project Mayhem 2012 'Dangerous Ideas #1 and #2': https://pastebin.com/sllwjbtz
@@ -395,9 +405,9 @@ $FEECTING = https://github.com/indraai/language-feecting
 -- BEGIN:META
 
   Title: TylerDeva Specification and Instructions
-  Version: 1.3
+  Version: 1.4
   Author: QUINN MICHAELS
-  Date: August 19, 2019 10:02a (PST)
+  Date: August 25, 2019 13:41
   Copyright: Copyright (c)2019 Quinn Michaels. All Rights Reserved
   License:
     Permission is hereby granted, free of charge, to any person obtaining a
