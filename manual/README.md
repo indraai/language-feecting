@@ -128,6 +128,20 @@ while: MEMBER in #TEAM
 
 > This is a simple while loop where the MEMBER is defined as a local loop variable only available to this command loop and then as it loops over MEMBER it will send a #FEECTING.
 
+```
+when: MEMBER enters #TEAM
+  - send: MEMBER #GREETING
+```
+
+```
+during: MEMBER with #TEAM
+  - include: RELATIONSHIPS
+```
+
+```
+after: MEMBER leaves #TEAM
+  - clean: PROFILE
+```
 ---
 
 -- BEGIN: META

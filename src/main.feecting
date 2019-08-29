@@ -167,7 +167,6 @@ GARUDA = SECURITY
   during: *condition*
     *input*
 
-
   ///
     AFTER CONDITION USED FOR WHEN SOMETHING IS HAPPENING
     DATA STRUCTURES
@@ -178,6 +177,7 @@ GARUDA = SECURITY
   ///
   after: *condition*
     *input*
+
   #TYLER > #CODE > $FEECTING
 
 -- END:PROGRAM
