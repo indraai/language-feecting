@@ -89,7 +89,7 @@
         'name': 'logic.string'
   }
   {
-    'match': '(for|while):'
+    'match': '(for|while|when|during|after):'
     'captures':
       '1':
         'name': 'iterator.constant'

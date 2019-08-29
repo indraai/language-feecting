@@ -144,6 +144,40 @@ GARUDA = SECURITY
   while: *condition*
     *input*
 
+
+  ///
+    WHEN CONDITION USED FOR WHEN SOMETHING STARTS HAPPENING
+    DATA STRUCTURES
+
+    SPEC
+      when: condition
+        *line items, logic set, statements, strings, variables, and other
+  ///
+  when: *condition*
+    *input*
+
+  ///
+    DURING CONDITION USED FOR WHEN SOMETHING IS HAPPENING
+    DATA STRUCTURES
+
+    SPEC
+      during: condition
+        *line items, logic set, statements, strings, variables, and other
+  ///
+  during: *condition*
+    *input*
+
+
+  ///
+    AFTER CONDITION USED FOR WHEN SOMETHING IS HAPPENING
+    DATA STRUCTURES
+
+    SPEC
+      after: condition
+        *line items, logic set, statements, strings, variables, and other
+  ///
+  after: *condition*
+    *input*
   #TYLER > #CODE > $FEECTING
 
 -- END:PROGRAM
