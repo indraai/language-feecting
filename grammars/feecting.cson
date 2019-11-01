@@ -83,6 +83,12 @@
         'name': 'valueLabel.keyword'
   }
   {
+    'match': '(`.*`)'
+    'captures':
+      '1':
+        'name': 'reference.meta.class'
+  }
+  {
     'match': '(if|then|else|finally):'
     'captures':
       '1':
