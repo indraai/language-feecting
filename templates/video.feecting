@@ -36,13 +36,15 @@ $FEECTING = https://github.com/indraai/language-feecting/
 -- END:PROGRAM
 
 -- BEGIN:META
-```
+
   Title: :title:
   Version: 1.0
   Author: @quinn
   Date: :created:
   Copyright: :year: @quinn @feecting. All Rights Reserved
+
   License:
+
     Permission is hereby granted, free of charge, to any person obtaining a
     copy of this PROGRAM and associated documentation files (the "PROGRAM"),
     to deal in the PROGRAM without restriction, including without limitation
@@ -60,5 +62,5 @@ $FEECTING = https://github.com/indraai/language-feecting/
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
     FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR OTHER DEALINGS
     IN THE PROGRAM.
-```
+
 -- END:META
