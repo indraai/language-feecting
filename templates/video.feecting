@@ -1,22 +1,24 @@
-# :title:
+## :title:
 
 :video:
+by [:author:](:channel:)
+published: :when:
 
 :description:
 
-## Channel
-:channel:
-
-## Tweet
-:tweet:
-
-## Tags
 :tags:
 
-## Published
-:when: 
+---
 
-## Variables
+### Tweet
+:tweet:
+
+### Tags
+:tags:
+
 $FEECTING = https://github.com/indraai/language-feecting/
+
 @quinn = https://twitter.com/quinnmichaels
+@feecting = https://twitter.com/feecting
+@tyler = https://twitter.com/TylerDeva
 @feecting = https://twitter.com/feecting
