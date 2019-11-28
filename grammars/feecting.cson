@@ -83,12 +83,6 @@
         'name': 'valueLabel.keyword'
   }
   {
-    'match': '^|^\\W(\\w*):'
-    'captures':
-      '1':
-        'name': 'valueLabel.syntax.meta.class'
-  }
-  {
     'match': '(`.*?`)'
     'captures':
       '1':
