@@ -77,10 +77,16 @@
         'name': 'variables.hash.variable'
   }
   {
-    'match': '-\\s(\\w*):'
+    'match': '^|^\\W(\\w*):'
     'captures':
       '1':
         'name': 'valueLabel.keyword'
+  }
+  {
+    'match': '^|^\\W(\\w*):'
+    'captures':
+      '1':
+        'name': 'valueLabel.syntax.meta.class'
   }
   {
     'match': '(`.*?`)'
