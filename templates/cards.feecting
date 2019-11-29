@@ -12,15 +12,20 @@ $FEECTING: https://github.com/indraai/language-feecting/
 @authors:
   :authors:
 
-#CardThread: A collection of cards produced by the #TeamTyler support agents.
+@mentions:
+  :mentions:
+
+#hashes:
+  :hashes:
+
 
 -- BEGIN:OUTLINE
 
-  1. Who? :authors_list:
+  1. Who? @authors
   2. What? #CardThread
   3. When? :created:
-  4. Where? :designation:
-  5. Why? To spead the word.
+  4. Where? Here
+  5. Why? Becoming a #RealityArtist
 
 -- END:OUTLINE
 
@@ -30,7 +35,12 @@ $FEECTING: https://github.com/indraai/language-feecting/
 
 :cards:
 
-:tags:
+:agents_list:
+
+:authors_list:
+
+:hashes:
+
 
 -- END:PROGRAM
 
@@ -38,7 +48,7 @@ $FEECTING: https://github.com/indraai/language-feecting/
 ```
   Title: :title:
   Version: :version:
-  Author: :author_list
+  Author: :author_list:
   Date: :created:
   Copyright: Copyright :year: (c) :author_list:. All Rights Reserved
   License:
