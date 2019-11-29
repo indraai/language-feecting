@@ -6,11 +6,11 @@
 // VARIABLES
 $FEECTING: https://github.com/indraai/language-feecting/
 
-@agents >
-  :agents:
-
 @authors >
   :authors:
+
+@agents >
+  :agents:
 
 @mentions >
   :mentions:
@@ -33,12 +33,16 @@ $FEECTING: https://github.com/indraai/language-feecting/
 
 # :title:
 
+## Cards
 :cards:
 
-:agents_list:
-
+## Authors
 :authors_list:
 
+## Agents
+:agents_list:
+
+## Hashes
 :hashes:
 
 
@@ -50,7 +54,7 @@ $FEECTING: https://github.com/indraai/language-feecting/
   Version: :version:
   Author: :author_list:
   Date: :created:
-  Copyright: Copyright :year: (c) :author_list:. All Rights Reserved
+  Copyright: Copyright :year: (c) :authors_list:; All Rights Reserved
   License:
     Permission is hereby granted, free of charge, to any person obtaining a
     copy of this PROGRAM and associated documentation files (the "PROGRAM"),
