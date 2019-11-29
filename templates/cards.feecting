@@ -1,37 +1,5 @@
 # :title:
-
-## DISCLAIMER
-> :disclaimer:
-
-// VARIABLES
-$FEECTING: https://github.com/indraai/language-feecting/
-
-@authors >
-  :authors:
-
-@agents >
-  :agents:
-
-@mentions >
-  :mentions:
-
-#hashes >
-  :hashes:
-
-
--- BEGIN:OUTLINE
-
-  1. Who? @authors
-  2. What? #CardThread
-  3. When? :created:
-  4. Where? Here
-  5. Why? Becoming a #RealityArtist
-
--- END:OUTLINE
-
--- BEGIN:PROGRAM
-
-# :title:
+:disclaimer:
 
 ## Cards
 :cards:
@@ -45,8 +13,21 @@ $FEECTING: https://github.com/indraai/language-feecting/
 ## Hashes
 :hashes:
 
+---
 
--- END:PROGRAM
+$FEECTING: https://github.com/indraai/language-feecting/
+
+@authors >
+  :authors:
+
+@agents >
+  :agents:
+
+@mentions >
+  :mentions:
+
+#hashes >
+  :hashes:
 
 -- BEGIN:META
 ```
