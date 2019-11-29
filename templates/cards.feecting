@@ -6,16 +6,16 @@
 // VARIABLES
 $FEECTING: https://github.com/indraai/language-feecting/
 
-@agents:
+@agents >
   :agents:
 
-@authors:
+@authors >
   :authors:
 
-@mentions:
+@mentions >
   :mentions:
 
-#hashes:
+#hashes >
   :hashes:
 
 
