@@ -1,7 +1,7 @@
 # TylerDumb Specification and Instructions for #NonProgrammers.
 
 ## DISCLAIMER
-> This is the basic structure and specification for #TylerDumb
+> This is the basic structure and specification for #TylerDumb a very simple #TylerAgent for #NonProgrammers. Use at your own risk.
 
 // VARIABLES
 $FEECTING = https://github.com/indraai/language-feecting
@@ -75,15 +75,15 @@ $FEECTING = https://github.com/indraai/language-feecting
 
       - NOTE: The message should be crystal clear as well as the intentions
 
-  - #WHO: are the NonProgrammers
+  - #WHO: are is a #NonProgrammer
     - SOMEONE: who is low in technical-skill.
     - SOMEONE: who is is disinterested in the inner-workings of technology.
     - SOMEONE: who reads romance novels over code novels.
     - SOMEONE: who has no #IDEA what an #API is.
-    - SOMEONE: who needs help learning out #TECHNOLOGY.
-    - SOMEONE: who is learning about #TECHNOLOGY.
-    - SOMEONE: who has yet to write a #HelloWorld
-    - SOMEONE: who is learning as they go.
+    - SOMEONE: who needs help learning #TECHNOLOGY.
+    - SOMEONE: who is just beginning to learn about #TECHNOLOGY.
+    - SOMEONE: who has yet to write a #HelloWorld program.
+    - SOMEONE: who is #Learning but not yet #Programming.
 
   - #SOURCES:
     - #PM2012Ideas: Project Mayhem 2012 'Dangerous Ideas #1 and #2' https://pastebin.com/sllwjbtz
