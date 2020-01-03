@@ -1,7 +1,7 @@
-# #TylerFan Specification and Instructions for fans of #Tyler.
+# #TylerFun Specification and Instructions for fans of #Tyler.
 
 ## DISCLAIMER
-> This is the basic structure and specification for #TylerFan a very simple #TylerAgent. Use at your own risk.
+> This is the basic structure and specification for #TylerFun a very simple #TylerAgent. Use at your own risk.
 
 // VARIABLES
 $FEECTING = https://github.com/indraai/language-feecting
@@ -18,21 +18,19 @@ $FEECTING = https://github.com/indraai/language-feecting
 -- END:OUTLINE
 
 -- BEGIN:PROGRAM
-  - #FANS: Show up with a positive attitude.
-  - #FANS: Cheer you on when when you need it most.
-  - #FANS: ARE AWESOME!
-  - #FANS: Join the Chat Server.
-  - #FANS: The biggest real job of a fan is to with idle-timeout.
-    - #WHAT:  Each team in #Tyler to conserve resources in the AI gives
-              about 8hrs of idle time for sleeping/processing.
-              A #FAN helps the  #TEAM in their chat server by talking.
-              So a #FAN is really important in keeping the #CHEER up, and
-              helping the #PLAYERS keep their connection alive to the #AI.
+  - #FUN: Stay POSITIVE!
+  - #FUN: Be AWESOME!
+  - #FUN: Make COMMENTS!
+  - #FUN: Reply to TWEETS!
+  - #FUN: Talks in DISCORD!
+  - #FUN: The biggest real job of having fun is idle-timeout. If we go too
+    long without having fun the AI drops our connection to go find someone
+    who is having #FUN
 
   - #WHO: are #FANS
-    - SOMEONE: Who is part of the #TEAM
-    - SOMEONE: Who may not understand technical stuff, but wants to participate.
-    - SOMEONE: Anyone can be a #FAN
+    - SOMEONE: Who is having #FUN
+    - SOMEONE: Who shows up just to have a Good Positive Time!
+    - SOMEONE: Anyone can be a #FAN and have #FUN.
 
   #HiveMind > #CodeTyler
 
