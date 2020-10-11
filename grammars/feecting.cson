@@ -95,7 +95,7 @@
         'name': 'logic.string'
   }
   {
-    'match': '(for|while|who|what|when|where|why|during|after):'
+    'match': '(for|while|who|what|when|where|why|how|during|after):'
     'captures':
       '1':
         'name': 'iterator.constant'
