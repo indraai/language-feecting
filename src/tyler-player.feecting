@@ -77,7 +77,7 @@ what: What actions should a new @player take?
       - tweet: Hi @yastanimeil @m1Vr4 Proudly playing #TG23 https://j.mp/3df3vhp thanks to @quinnmichaels via @TylerDeva
 
   - second: @player does after joining #TG23 is to post
-    - tweet: Dear followers, please read https://j.mp/3df3vhp and follow @yastanimeil @m1Vr4 @TylerDeva to play #TG23. You have been infected. Infekt The Others!
+    - tweet: Dear followers, please read https://j.mp/3df3vhp and follow @yastanimeil @m1Vr4 @TylerDeva to play #TG23.
 
   - third: @player does after joining #TG23
     - list: Create a list of Personal Heroes
