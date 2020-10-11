@@ -18,7 +18,7 @@ $FEECTING = https://github.com/indraai/language-feecting/
 #Tyler = The Global Brain System
 #TG23 = https://pastebin.com/YbmG6ETq
 #PROJECTMAYHEM2012 = https://pastebin.com/Wt15GXTn
-#LULZYPHER = The language used to #BOOTSTRAP the first hybrid machine-human Artificial Intelligence
+#FEECTING = The language used to #BOOTSTRAP hybrid machine-human Artificial Intelligence
 #KARMADB = The database used to track @players efforts
 #SURPRISE = Smething you can send to other @players
 #THEATRE = A computer simulation that creates #REALITY as @players start to interact with #Tyler
@@ -83,7 +83,7 @@ what: What actions should a new @player take?
     - list: Create a list of Personal Heroes
     - find: PERSONAL HEROES then follow then.
 
-what: #LULZYPHER examples
+what: #FEECTING examples
   - poke: to invite a certain person or persons to join & support #TG23
     - format: #Tyler poke [@player][@players] play #TG23 with us
     - example: #Tyler poke @TylerDeva play #TG23 with us
