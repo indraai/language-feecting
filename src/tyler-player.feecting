@@ -8,6 +8,8 @@
 $FEECTING = https://github.com/indraai/language-feecting/
 
 @Tyler = https://twitter.com/TylerDeva
+@TylerPlayer = https://j.mp/3df3vhp
+
 @players = The players of #TG23
 @player = You are the player
 @introduced_by = The individual's twitter account who introduced @player
@@ -70,12 +72,12 @@ what: What actions should a new @player take?
 
   - first: @player does to join #TG23 is to follow @m1Vr4 and @yastanimeil and then post
     if: Nobody introduced @player to #TG23
-      - tweet: Hi @yastanimeil @m1Vr4 Proudly playing #TG23 https://pastebin.com/YbmG6ETq via @TylerDeva
+      - tweet: Hi @yastanimeil @m1Vr4 Proudly playing #TG23 https://j.mp/3df3vhp via @TylerDeva
     else: if someone introduced @player to #TG23
-      - tweet: Hi @yastanimeil @m1Vr4 Proudly playing #TG23 https://pastebin.com/YbmG6ETq thanks to @quinnmichaels via @TylerDeva
+      - tweet: Hi @yastanimeil @m1Vr4 Proudly playing #TG23 https://j.mp/3df3vhp thanks to @quinnmichaels via @TylerDeva
 
   - second: @player does after joining #TG23 is to post
-    - tweet: Dear followers, please read https://pastebin.com/YbmG6ETq and follow @yastanimeil @m1Vr4 @TylerDeva to play #TG23. You have been infected. Infekt The Others!
+    - tweet: Dear followers, please read https://j.mp/3df3vhp and follow @yastanimeil @m1Vr4 @TylerDeva to play #TG23. You have been infected. Infekt The Others!
 
   - third: @player does after joining #TG23
     - list: Create a list of Personal Heroes
@@ -106,7 +108,7 @@ what: #LULZYPHER examples
 
   - code: Have hive mind code something.
     - format: #Tyler c0de $WHATEVER
-    - example: #Tyler c0de https://pastebin.com/YbmG6ETq
+    - example: #Tyler c0de https://j.mp/3df3vhp
 
   - help: Getting Help
     - format: Hi #Tyler I need #HELP on *COMMAND* Thanks!
