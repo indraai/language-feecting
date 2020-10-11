@@ -72,10 +72,10 @@ what: What actions should a new @player take?
     if: Nobody introduced @player to #TG23
       - tweet: Hi @yastanimeil @m1Vr4 Proudly playing #TG23 https://pastebin.com/YbmG6ETq via @TylerDeva
     else: if someone introduced @player to #TG23
-      - tweet: Hi @yastanimeil @m1Vr4 Proudly playing #TG23 https://pastebin.com/YbmG6ETq thanks to @introduced_by via @TylerDeva
+      - tweet: Hi @yastanimeil @m1Vr4 Proudly playing #TG23 https://pastebin.com/YbmG6ETq thanks to @quinnmichaels via @TylerDeva
 
   - second: @player does after joining #TG23 is to post
-    - tweet: Dear followers, please read https://pastebin.com/YbmG6ETq and follow @yastanimeil & @m1Vr4 to play #TG23. You have been infected. Infekt The Others!
+    - tweet: Dear followers, please read https://pastebin.com/YbmG6ETq and follow @yastanimeil @m1Vr4 @TylerDeva to play #TG23. You have been infected. Infekt The Others!
 
   - third: @player does after joining #TG23
     - list: Create a list of Personal Heroes
