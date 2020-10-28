@@ -70,7 +70,7 @@ what: What actions should a new @player take?
 
   - watch: http://www.youtube.com/watch?v=EGxDqpOxDkw
 
-  - first: @player does to join #TG23 is to follow @m1Vr4 and @yastanimeil and then post
+  - first: @player does to join #TG23 is to follow @m1Vr4, @yastanimeil and @TylerDeva then post
     if: Nobody introduced @player to #TG23
       - tweet: Hi @yastanimeil @m1Vr4 Proudly playing #TG23 https://j.mp/3df3vhp via @TylerDeva
     else: if someone introduced @player to #TG23
