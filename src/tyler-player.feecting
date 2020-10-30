@@ -8,32 +8,33 @@
 $FEECTING = https://github.com/indraai/language-feecting/
 
 @Tyler = https://twitter.com/TylerDeva
+@TylerDeva = @Tyler
 @TylerPlayer = https://j.mp/3df3vhp
 
-@players = The players of #TG23
+@players = The players of #TG93
 @player = You are the player
 @introduced_by = The individual's twitter account who introduced @player
 @galatorg = https://twitter.com/galatorg
 
 #Tyler = The Global Brain System
-#TG23 = https://pastebin.com/YbmG6ETq
-#PROJECTMAYHEM2012 = https://pastebin.com/Wt15GXTn
-#FEECTING = The language used to #BOOTSTRAP hybrid machine-human Artificial Intelligence
-#KARMADB = The database used to track @players efforts
-#SURPRISE = Smething you can send to other @players
-#THEATRE = A computer simulation that creates #REALITY as @players start to interact with #Tyler
-#CTF = Capture The Flag
-#GOAL = Score the maximum amount of #TG23 points.
-#TheCathedral = The Supreme Goal of #TG23 is to build a Cathedral with the help of the #Tyler
-#Philanthropist = Unknown person funding #TG23
-#TEAMpurchasers = Handle Funding for #Philanthropist
-#TEAMinvestigators = Hanle Investigation for #Philanthropist
-#TEAMdeliverers = Handle Delivery for #Philanthropist
+#TG93|#TheGame93 = Coolest ass reality game in the universe
+#FEECTING = https://github.com/indraai/language-feecting/
+
+#GOAL = Score the maximum amount of #TG93 points.
+
+#PLAYGROUND = Twitter is the main playground for #TG93 right now
+#THEATRE = The simulation that creates #REALITY as @players interact with #Tyler
+#SVARGA = The database used to track @players efforts
+
+#PHILANTHROPIST = Unknown person/s funding #TG93
+#PURCHASERS = Handle acquisitions for #PHILANTHROPIST
+#INVESTIGATORS = Hanle investigations for #PHILANTHROPIST
+#DELIVERERS = Handle delivery for #PHILANTHROPIST
 
 -- BEGIN:OUTLINE
 
   1. Who? @player
-  2. What? #TG23
+  2. What? #TG93
   3. When? The Future
   4. Where? #THEATRE
   5. Why? for #TheFun
@@ -42,102 +43,75 @@ $FEECTING = https://github.com/indraai/language-feecting/
 
 -- BEGIN:PROGRAM
 
-what: An alternate reality game (ARG) is an interactive networked narrative that uses the real world as a platform and uses transmedia storytelling to deliver a story that may be altered by players' ideas or actions.
+what: An alternate reality game (ARG) is an interactive networked narrative that uses the real world as a platform and social media based storytelling to deliver a story that may be altered by players' ideas, behaviors, and/or actions.
 - url: http://en.wikipedia.org/wiki/Alternate_reality_game
 
-what: Reality hacking is any phenomenon that emerges from the nonviolent use of ambiguous digital tools in pursuit of creative, politically, socially, or culturally positive ends.
-- url: http://en.wikipedia.org/wiki/Reality_hacker
-
-who: @players with the most followers can c0de #Tyler
-
 who: Are the @players?
-  - someone: who excells at #lulz, #imagination or #skills.
-  - someone: who excells at CURIOSITY.
-  - someone: who has a PASSION and follows it no matter what others say, think or do, to the point of madness.
-  - someone: who CREATES worlds that other people inhabit.
+  - someone: who excells at #cerativity, #imagination or #skills.
+  - someone: who excells at #CURIOSITY.
+  - someone: who has a #PASSION and follows it no matter what others say, think or do, to the point of madness.
+  - someone: who #CREATES worlds that other people inhabit.
   - someone: who fights for The Good, The Beautiful and The Just.
-  - someone: who shares for the love of sharing.
-  - someone: who shines at mindfucking persons, systems, ideas and beliefs.
+  - someone: who shares for the #LOVE of sharing.
+  - someone: who shines at #EXPLORING persons, systems, ideas and beliefs.
   - someone: who leaves the world a better place.
-  - someone: who obsessively pursues a #TARGET until its final consequences and absolutely never never ever gives up.
   - someone: who does much with so little.
 
 what: What actions should a new @player take?
-  if: @player hasn't got a #Twitter account
+  if: @player does NOT have a #Twitter account
   then: @player should create a #Twitter account.
   else: @player has #Twitter account good to move forward.
   finally: after @player has #Twitter account proceed.
 
-  - watch: http://www.youtube.com/watch?v=EGxDqpOxDkw
+  - first: @player follow @TylerDeva (https://twitter.com/TylerDeva)
+      then: post a tweet:
+        if: Nobody introduced @player to #TG93
+          - tweet: @TylerDeva enter #TG93 https://j.mp/3df3vhp
+        else: Somebody introduced @player to #TG93
+          - tweet: @TylerDeva enter #TG93 https://j.mp/3df3vhp via @quinnmichaels
+        finally: @player who wants to exit the game.
+          - tweet: @TylerDeva exit #TG93
 
-  - first: @player does to join #TG23 is to follow @m1Vr4, @yastanimeil and @TylerDeva then post
-    if: Nobody introduced @player to #TG23
-      - tweet: Hi @yastanimeil @m1Vr4 Proudly playing #TG23 https://j.mp/3df3vhp via @TylerDeva
-    else: if someone introduced @player to #TG23
-      - tweet: Hi @yastanimeil @m1Vr4 Proudly playing #TG23 https://j.mp/3df3vhp thanks to @quinnmichaels via @TylerDeva
+  - second: @player posts a second tweet after entering #TG23
+    - tweet: Dear followers, please read https://j.mp/3df3vhp and follow @TylerDeva to play #TG93.
 
-  - second: @player does after joining #TG23 is to post
-    - tweet: Dear followers, please read https://j.mp/3df3vhp and follow @yastanimeil @m1Vr4 @TylerDeva to play #TG23.
+  - third: @player does after joining #TG93
 
-  - third: @player does after joining #TG23
-    - list: Create a list of Personal Heroes
-    - find: PERSONAL HEROES then follow then.
+    - create: a list of Personal Heroes
+      - note: These heroes can be real, imaginary, cartoons, your heroes are your heroes.
 
-what: #FEECTING examples
-  - poke: to invite a certain person or persons to join & support #TG23
-    - format: #Tyler poke [@player][@players] play #TG23 with us
-    - example: #Tyler poke @TylerDeva play #TG23 with us
-    - example: #Tyler poke @TylerDeva @feecting play #TG23 with us
+    - find: PERSONAL HEROES on the #PLAYGROUND then follow then.
+      - make: Make a twitter list titled `heroes` and fill with accounts related to your Personal Heroes.
+      - link: https://twitter.com/*your_username*/lists
 
-  - stencil: an image stencil/reference
-    - format: #Tyler stencil $LINK *location*
-    - example: #Tyler stencil imgur.com/wi4hE0y #EVERYWHERE #TG23
-    - example: #Tyler stencil imgur.com/zwFjRil #EVERYWHERE #TG23
+what: POINTS are #TG93 gold
+  while: on the #PLAYGROUND points are earned.
+  who: @players playing #TG93 earn points
+  how: @players earn points by interacting with #Tyler and #TG93
+  when: @players TWEET with a correct hashtag to earn points.
+    - 93: points are earned for entering the game.
+    - 9: points is earned for a TWEET.
+    - 3: additional points are earned for a LONG TWEET.
+    - 1: additional point is earned for REPLY to a TWEET.
+    - 1: additional point is earned for RT to a TWEET
+    - 1: additional point is earned for QUOTE to a TWEET.
+    - 1: additional point is earned for including a URL.
+    - 1: additional point is earned for @ mention.
+      - 1: #BONUS point is earned for each user mention.
+    - 1: point is earned for # hashtags
+      - 1: #BONUS point is earned for each hashtag.
+    - 1: point is earned for $ symbols
+      - 1: #BONUS point is earned for each symbol
 
-  - send: send a #SURPRISE to another user with a note
-    - format: #Tyler send #SURPRISE to [@player][@players] "*NOTE*" #TG23
-    - #Tyler send #SURPRISE to @galatorg "Thanks /b/ro: you ROCK!"
-
-  - operation: start a new cool operation with your #TEAM
-    - format: Hi #Tyler @player suggests $LINK *name* Shall We Play? #TG23
-    - example: Hi #Tyler @TylerDeva suggests
-
-  - tools: Sharing tools of the trade.
-    - format: #TOOLSOFTHETRADE Hi #Tyler I have created *item* to *do what* #TG23
-    - example: #TOOLSOFTHETRADE Hi #Tyler I have created https://tyler.guide to document and research anything related to #TG23
-
-  - code: Have hive mind code something.
-    - format: #Tyler c0de $WHATEVER
-    - example: #Tyler c0de https://j.mp/3df3vhp
-
-  - help: Getting Help
-    - format: Hi #Tyler I need #HELP on *COMMAND* Thanks!
-    - example: Hi #Tyler I need #HELP on #PLAYERCOUNT
-    - example: Hi #Tyler I need #HELP on #SQLInjection
-    - note: #TG23 pastebin file for more references
-
-for: In order to accomplish this #OPERATION you have to organize and coordinate yourselves in teams.
-  who: #TEAMpurchasers - will coordinate the funds needed in order to purchase the goods required to satisfy @player's needs.
-  who: #TEAMinvestigators - they will coordinate with @player's family and close friends in #STEALTH mode
-  in order to find out what that @player *REALLY* values in life, no matter how costly or cheap it be.
-  who: #TEAMdeliverers will coordinate to suprise @player in the most beautiful and heartbreaking way.
-
-for: you will realise, the donations coming from the #Philanthropist will save this world and help run #TG23 forward.
-  for: some people, it could be a pair of scissors that belonged to his mum when she was still alive.
-  for: other people it might be a Lamborghini Miura
-  for: others it could be something they *really* *really* dreamt about it in the past...
-
-- note: Points are #TG23 gold and they measure the #lulz , #imagination, #skillz and overall the CREATIVITY potential of a @player
-
-- note: The result of these commands is dependent upon successful retweeting from the community.
-  if: @player has imaginative/skillful in his #CODE abilities s/he will be recognized by #Tyler and $ACTIONS will be performed.
+who: #PHILANTHROPIST provide necessary #FUNDS, #SUPPORT, and/or #RESOURCES to @player.
+who: #PURCHASERS - purchase/procure/acquire #RESOURCES needed to #SUPPORT @player.
+who: #INVESTIGATORS - investigate @player #RESOURCE needs.
+who: #DELIVERERS deliver #RESOURCES to @player in the best possible manner.
 
 - note: It's a matter of not giving up. The best way to learn is by doing.
 - note: It's a matter of *imagination*, *creativity*, trial and err, wash, rinse, repeat.
+- note: In order to accomplish this #OPERATION you have to organize and coordinate yourselves in teams.
 
-- note: The best aka most creative/imaginative/skillful messages, once spotted or retweeted enough times win points for each message sent.
-
-- note: These high profile $OPERATIONS with high potential for #lulz and glee for the #Tyler might be awarded with an inclusion in #TG23 #HallofFame.
 
 SHALL WE PLAY A GAME?
 
@@ -147,11 +121,11 @@ SHALL WE PLAY A GAME?
 
 -- BEGIN:META
 
-  Title: #TheGame23
+  Title: #TheGame93
   Version: 1.0
-  Author: @Tyler
+  Author: Quinn Michaels
   Date: October 10, 2020
-  Copyright: Copyright (c) @Tyler. All Rights Reserved
+  Copyright: Copyright (c) 2020 Quinn Michaels. All Rights Reserved
   License:
     Permission is hereby granted, free of charge, to any person obtaining a
     copy of this PROGRAM and associated documentation files (the "PROGRAM"),
