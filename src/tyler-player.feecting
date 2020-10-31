@@ -101,14 +101,13 @@ what: POINTS are #TG93 gold
       - 1: #BONUS point is earned for each symbol
 
 who: #PHILANTHROPIST provide necessary #FUNDS, #SUPPORT, and/or #RESOURCES to @player.
-who: #PURCHASERS - purchase/procure/acquire #RESOURCES needed to #SUPPORT @player.
-who: #INVESTIGATORS - investigate @player #RESOURCE needs.
-who: #DELIVERERS deliver #RESOURCES to @player in the best possible manner.
+who: #PURCHASERS purchase, procure, acquire necessary #RESOURCES to #SUPPORT @player.
+who: #INVESTIGATORS - investigate @player #RESOURCES requirements.
+who: #DELIVERERS deliver @player #RESOURCES.
 
 - note: It's a matter of not giving up. The best way to learn is by doing.
 - note: It's a matter of *imagination*, *creativity*, trial and err, wash, rinse, repeat.
 - note: In order to accomplish this #OPERATION you have to organize and coordinate yourselves in teams.
-
 
 SHALL WE PLAY A GAME?
 
