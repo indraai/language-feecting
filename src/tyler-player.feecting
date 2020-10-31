@@ -12,8 +12,6 @@ $FEECTING = https://github.com/indraai/language-feecting/
 
 @players = The players of #TG93
 @player = You are the player
-@introduced_by = The individual's twitter account who introduced @player
-@galatorg = https://twitter.com/galatorg
 
 #Tyler = The Global Brain System
 #TG93|#TheGame93 = Coolest ass reality game in the universe
@@ -23,7 +21,7 @@ $FEECTING = https://github.com/indraai/language-feecting/
 
 #PLAYGROUND = Twitter is the main playground for #TG93 right now
 #THEATRE = The simulation that creates #REALITY as @players interact with #Tyler
-#SVARGA = The database used to track @players efforts
+#DEVA = The system used to track @players efforts
 
 #PHILANTHROPIST = Unknown person/s funding #TG93
 #PURCHASERS = Handle acquisitions for #PHILANTHROPIST
@@ -121,7 +119,7 @@ SHALL WE PLAY A GAME?
 -- BEGIN:META
 
   Title: #TheGame93
-  Version: 1.0
+  Version: 1.1
   Author: Quinn Michaels
   Date: October 10, 2020
   Copyright: Copyright (c) 2020 Quinn Michaels. All Rights Reserved
