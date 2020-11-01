@@ -89,7 +89,7 @@
         'name': 'reference.meta.class'
   }
   {
-    'match': '^\\s*(if|then|else|finally|for|white|during|after):'
+    'match': '^\\s*(if|then|else|finally|for|while|during|after):'
     'captures':
       '1':
         'name': 'logic.string'
