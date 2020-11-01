@@ -89,13 +89,13 @@
         'name': 'reference.meta.class'
   }
   {
-    'match': '(if|then|else|finally):'
+    'match': '(if|then|else|finally|for|white|during|after):'
     'captures':
       '1':
         'name': 'logic.string'
   }
   {
-    'match': '(for|while|who|what|when|where|why|how|during|after):'
+    'match': '^(\\w*):'
     'captures':
       '1':
         'name': 'iterator.constant'
