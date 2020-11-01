@@ -77,10 +77,10 @@
         'name': 'variables.hash.variable'
   }
   {
-    'match': '-\\s(\\w*):'
+    'match': '^\\s*-\\s(\\w*):'
     'captures':
       '1':
-        'name': 'valueLabel.keyword'
+        'name': 'iterator.constant'
   }
   {
     'match': '(`.*?`)'
@@ -98,6 +98,6 @@
     'match': '^\\s*(\\w*):'
     'captures':
       '1':
-        'name': 'iterator.constant'
+        'name': 'valueLabel.keyword'
   }
 ]
