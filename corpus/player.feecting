@@ -6,21 +6,19 @@
 // VARIABLES
 $FEECTING = https://github.com/indraai/language-feecting/
 
-@Tyler = https://twitter.com/TylerDeva
-@TylerDeva = @Tyler
-@TylerPlayer = https://j.mp/3df3vhp
+@Deva = https://twitter.com/DevaBuddhism
 
 @players = The players of #TG93
 @player = You are the player
 
-#Tyler = The Global Brain System
+#Deva = The Global Brain System
 #TG93|#TheGame93 = Coolest ass reality game in the universe
 #FEECTING = https://github.com/indraai/language-feecting/
 
 #GOAL = Score the maximum amount of #TG93 points.
 
 #PLAYGROUND = Twitter is the main playground for #TG93 right now
-#THEATRE = The simulation that creates #REALITY as @players interact with #Tyler
+#THEATRE = The simulation that creates #REALITY as @players interact with #Deva
 #DEVA = The system used to track @players efforts
 
 #PHILANTHROPIST = Unknown person/s funding #TG93
@@ -60,17 +58,17 @@ what: What actions should a new @player take?
   else: @player has #Twitter account good to move forward.
   finally: after @player has #Twitter account proceed.
 
-  - first: @player follow @TylerDeva (https://twitter.com/TylerDeva)
+  - first: @player follow @Deva (https://twitter.com/DevaBuddhism)
       then: post a tweet:
         if: Nobody introduced @player to #TG93
-          - tweet: @TylerDeva enter #TG93 https://j.mp/3df3vhp
+          - tweet: @DevaBuddhism enter #TG93 https://j.mp/3df3vhp
         else: Somebody introduced @player to #TG93
-          - tweet: @TylerDeva enter #TG93 https://j.mp/3df3vhp via @quinnmichaels
+          - tweet: @DevaBuddhism enter #TG93 https://j.mp/3df3vhp via @quinnmichaels
         finally: @player who wants to exit the game.
-          - tweet: @TylerDeva exit #TG93
+          - tweet: @DevaBuddhism exit #TG93
 
   - second: @player posts a second tweet after entering #TG23
-    - tweet: Dear followers, please read https://j.mp/3df3vhp and follow @TylerDeva to play #TG93.
+    - tweet: Dear followers, please read https://j.mp/3df3vhp and follow @DevaBuddhism to play #TG93.
 
   - third: @player does after joining #TG93
 
@@ -84,7 +82,7 @@ what: What actions should a new @player take?
 what: POINTS are #TG93 gold
   while: on the #PLAYGROUND points are earned.
   who: @players playing #TG93 earn points
-  how: @players earn points by interacting with #Tyler and #TG93
+  how: @players earn points by interacting with #Deva and #TG93
   when: @players TWEET with a correct hashtag to earn points.
     - 93: points are earned for entering the game.
     - 9: points is earned for a TWEET.
@@ -111,18 +109,18 @@ who: #DELIVERERS deliver @player #RESOURCES.
 
 SHALL WE PLAY A GAME?
 
-#CodeTyler
+#CodeDeva
 
 -- END:PROGRAM
 
 -- BEGIN:META
 
   Title: #TheGame93
-  Version: 1.2
+  Version: 1.3
   Author: Quinn Michaels
-  Date: October 10, 2020
-  Copyright: Copyright (c) 2020 Quinn Michaels. All Rights Reserved
-  License:
+  Date: Feb 7, 2021
+  Copyright: Copyright (c) 2021 Quinn Michaels. All Rights Reserved
+  License: MIT
     Permission is hereby granted, free of charge, to any person obtaining a
     copy of this PROGRAM and associated documentation files (the "PROGRAM"),
     to deal in the PROGRAM without restriction, including without limitation

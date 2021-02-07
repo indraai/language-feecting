@@ -7,9 +7,6 @@
 // VARIABLES
 $FEECTING = https://github.com/indraai/language-feecting/
 
-@quinn = https://twitter.com/quinnmichaels
-@feecting = https://twitter.com/feecting
-
 @:bot1-key: = :bot1-name:
 @:bot2-key: = :bot2-name:
 
@@ -36,13 +33,12 @@ $FEECTING = https://github.com/indraai/language-feecting/
 -- END:PROGRAM
 
 -- BEGIN:META
-
-  Title: #FEECTING Gossip
-  Version: 1.0
-  Author: @quinn @feecting
-  Date: :created:
-  Copyright: Copyright (c):year: @quinn @feecting. All Rights Reserved
-  License:
+  Title: Gossip Template
+  Version: 1.1
+  Author: Quinn Michaels
+  Date: Feb 7, 2021
+  Copyright: Copyright (c)2021 Quinn Michaels. All Rights Reserved
+  License: MIT
     Permission is hereby granted, free of charge, to any person obtaining a
     copy of this PROGRAM and associated documentation files (the "PROGRAM"),
     to deal in the PROGRAM without restriction, including without limitation
@@ -50,15 +46,14 @@ $FEECTING = https://github.com/indraai/language-feecting/
     and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM
     is furnished to do so, subject to the following conditions:
 
-    The above copyright notice and this permission notice shall be included in
-    all copies or substantial portions of the PROGRAM.
+    The above copyright notice and this permission notice shall be included
+    in all copies or substantial portions of the PROGRAM.
 
-    THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-    FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR OTHER DEALINGS
-    IN THE PROGRAM.
-
+    THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+    OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+    THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+    ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR
+    OTHER DEALINGS IN THE PROGRAM.
 -- END:META

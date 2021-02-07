@@ -7,6 +7,8 @@
     "grammar"
   ],
   "repository": "https://github.com/indraai/language-feecting",
+  "author": "Quinn Michaels",
+  "copyright": "2021",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

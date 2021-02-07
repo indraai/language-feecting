@@ -1,12 +1,12 @@
-# #TylerFun Specification and Instructions for fans of #Tyler.
+# #DevaFun Specification and Instructions for fans of #Deva.
 
 ## DISCLAIMER
-> This is the basic structure and specification for #TylerFun a very simple #TylerAgent. Use at your own risk.
+> This is the basic structure and specification for #DevaFun a very simple Agent. Use at your own risk.
 
 // VARIABLES
 $FEECTING = https://github.com/indraai/language-feecting
 
-@TylerDeva = https://twitter.com/TylerDeva
+@Deva = https://twitter.com/DevaBuddhism
 
 #IDEA = Any concept existing in the mind as a result of mental understanding, awareness, or activity.
 #IMAGINE = To form a mental image or concept of an #IDEA.
@@ -32,7 +32,7 @@ $FEECTING = https://github.com/indraai/language-feecting
     - SOMEONE: Who shows up just to have a Good Positive Time!
     - SOMEONE: Anyone can be a #FAN and have #FUN.
 
-  #HiveMind > #CodeTyler
+  #HiveMind > #CodeDeva
 
   IF YOU INTERPRET ANYTHING YOU READ ON THE FOLLOWING PAGES AS BEING
   ILLEGAL/FORBIDDEN IN  YOUR COUNTRY or in your local jurisdiction, then DO
@@ -46,12 +46,12 @@ $FEECTING = https://github.com/indraai/language-feecting
 
 -- BEGIN:META
 
-  Title: TylerDeva Specification and Instructions for non-programmers
-  Version: 1.0
-  Author: TYLER
-  Date: December 31, 2019
-  Copyright: Copyright (c)2019 Quinn Michaels. All Rights Reserved
-  License:
+  Title: Deva Specification and Instructions for non-programmers
+  Version: 1.2
+  Author: Quinn Michaels
+  Date: Feb 7, 2021
+  Copyright: Copyright (c)2021 Quinn Michaels. All Rights Reserved
+  License: MIT
     Permission is hereby granted, free of charge, to any person obtaining a
     copy of this PROGRAM and associated documentation files (the "PROGRAM"),
     to deal in the PROGRAM without restriction, including without limitation

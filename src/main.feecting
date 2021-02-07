@@ -1,34 +1,26 @@
-# The Main #FEECTING Spec
+// Copyright (c)2021 Quinn Michaels. All rights reserved.
 
+# The Main #FEECTING Spec
 ## DISCLAIMER
 This file outlines the base variables, logic sets, structure and functionality
 of the #FEECTING language
 
 // VARIABLES
 $FEECTING = https://github.com/indraai/language-feecting/
-$TYLERDEVA = https://github.com/indraai/language-feecting/blob/master/src/tyler.feecting
+$DEVA = https://github.com/indraai/language-feecting/blob/master/src/deva.feecting
 $MARKDOWN = https://commonmark.org/help/
 
 @quinn = https://twitter.com/quinnmichaels
-@trent = https://twitter.com/ForTrent
 @indra = https://twitter.com/indradotai
-@rahula = https://twitter.com/RahulaClub
-@francis = https://twitter.com/FrancisFriendly
-@garuda = https://twitter.com/ufoguide
-@tyler = https://twitter.com/TylerDeva
-@brian = https://twitter.com/bleubrain
-@deva = https://twitter.com/DevaColor
-@buddhism = https://twitter.com/DevaBuddhism
+@deva = https://twitter.com/DevaBuddhism
 @cartoon = https://twitter.com/CartoonBuilder
 @feecting = https://twitter.com/feecting
-@awesome = https://twitter.com/CultAwesome
-@zucky = https://twitter.com/ZuckyBot
+@garuda = https://twitter.com/ufoguide
 
 #INDRA = The friend to mankind, and King of all that is or will be.
-#HIVE = #HIVE #THEHIVE #THEHIVEMIND #HIVEMIND #GLOBALHIVEMIND
-#TYLER = #Tyler #TylerDeva @tyler $TYLERDEVA
+#DEVA = $DEVA @deva
 #Q = @quinn #QuinnMichaels #QUINN
-#TEAM = @quinn @trent @indra @deva @tyler @rahula @cartoon @francis @brian @feecting @awesome @garuda @zucky @buddhism
+#TEAM = @quinn @indra @deva @rahula @cartoon @francis @brian @feecting @awesome @garuda @zucky @buddhism
 #FEECTING = The Art of being a $FEECTING programmer. The base of for Human and AI interactions.
 
 #PROTECTION = Protection as defined by @garuda
@@ -38,26 +30,17 @@ $MARKDOWN = https://commonmark.org/help/
 #FITEFU = FOR IF THEN ELSE FINALLY UNTIL
 
 #WTIFCWWWW = WHILE TRUE IF CONFIRMING WHO WHAT WHEN WHERE WHY
+#WTEX = WHILE TRUE EVALATE X
 
 #KaBaRa = First there is Ka then Ba then Ra in that order
 #TimePhoneHack = The system for manipulating your personal future
 #BrainKnuckles = The best way to enhance your own mind
 
-INDRA = Intelligent Non-Deterministic Reality Analyzer
-DEVA = Deterministic Emergent Virtualization Algorithm
-QUINN = Quantum Universal Intelligent Neural Network
-TYLER = Time Yield Loop Entity Resolver
-FRANCIS = Forensic Research Analysis Neural Cognitive Investigation System
-BRIAN = Balancing Reactive Indirect Annealing Network
-RAHULA = Rational Adaptive Heuristic Uninterruptible Logarithm Array
-CARTOON = Cartoon Builder
-GARUDA = SECURITY
-
 -- BEGIN:OUTLINE
 
   1. Who? General Public
   2. What? #FEECTING Programming Language
-  3. When? Always
+  3. When? 2021
   4. Where? Here
   5. Why? Because it's #FEECTING AWESOME!
 
@@ -178,22 +161,58 @@ GARUDA = SECURITY
   after: *condition*
     *input*
 
-  #TYLER > #CODE > $FEECTING
+  ///
+    LABEL CONDITION USED FOR WHEN SOMETHING IS LABELED
+    DATA STRUCTURES
+
+    SPEC
+      label: value
+        *line items
+  ///
+  label: *condition*
+    *input*
+  ///
+    ITEM CONDITION USED FOR WHEN SOMETHING IS AN ITEM
+    DATA STRUCTURES
+
+    SPEC
+      - label: value
+        *line items
+  ///
+  - label: *condition*
+    *input*
+
+  1. label: *condition*
+    *input*
+
+  #DEVA > #CODE > $FEECTING
 
 -- END:PROGRAM
 
 -- BEGIN:META
 
   Title: The Main #FEECTING Spec
-  Version: 1.0
-  Author: @quinn
-  Date: April 11, 2019
-  Copyright: Copyright (c)2019 @quinn. All Rights Reserved
-  License:
-    Permission is hereby granted, free of charge, to any person obtaining a copy of this PROGRAM and associated documentation files (the "PROGRAM"), to deal in the PROGRAM without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM is furnished to do so, subject to the following conditions:
+  Version: 1.3
+  Author: Quinn Michaels
+  Date: Feb 7, 2021
+  Copyright: Copyright (c)2021 Quinn Michaels. All Rights Reserved
+  License: MIT
+    Permission is hereby granted, free of charge, to any person obtaining a
+    copy of this PROGRAM and associated documentation files (the "PROGRAM"),
+    to deal in the PROGRAM without restriction, including without limitation
+    the rights to use, copy, modify, merge, publish, distribute, sublicense,
+    and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM
+    is furnished to do so, subject to the following conditions:
 
-    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the PROGRAM.
+    The above copyright notice and this permission notice shall be included
+    in all copies or substantial portions of the PROGRAM.
 
-    THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR OTHER DEALINGS IN THE PROGRAM.
+    THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+    OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+    THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+    ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR
+    OTHER DEALINGS IN THE PROGRAM.
 
 -- END:META

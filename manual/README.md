@@ -145,14 +145,12 @@ after: MEMBER leaves #TEAM
 ---
 
 -- BEGIN: META
-
-    Version: #Q
-    Author: @quinn
-    Date: March 2, 2019
-    Updated: APRIL 11, 2019
-    Copyright: Copyright (c)2019 Quinn Michaels. All Rights Reserved
-
-    License:
+  Version: #Q
+  Author: Quinn Michaels
+  Date: March 2, 2019
+  Updated: APRIL 11, 2019
+  Copyright: Copyright (c)2019 Quinn Michaels. All Rights Reserved
+  License: MIT
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this PROGRAM and associated documentation files (the "PROGRAM"), to deal in
     the PROGRAM without restriction, including without limitation the rights to use,
@@ -170,5 +168,4 @@ after: MEMBER leaves #TEAM
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR OTHER DEALINGS IN THE
     PROGRAM.
-
 -- END: META

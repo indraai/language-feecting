@@ -1,3 +1,5 @@
+Copyright (c) 2021 Quinn Michaels
+
 # FEECTING README
 The #Feecting Language is a meta hybrid bootstrapped Artificial
 Intelligence laguage for the #FUTURE. Taking cues from every language #FEECTING

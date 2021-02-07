@@ -6,8 +6,6 @@
 // VARIABLES
 $FEECTING = https://github.com/indraai/language-feecting/
 
-@feecting = https://twitter.com/feecting
-
 -- BEGIN:OUTLINE
 
   1. Who: Anybody
@@ -50,11 +48,11 @@ $FEECTING = https://github.com/indraai/language-feecting/
 -- BEGIN:META
 
   Title: This is an Example #FEECTING Topic
-  Version: 1.0
-  Author: @feecting
-  Date:
-  Copyright: Copyright (c) @feecting. All Rights Reserved
-  License:
+  Version: 1.1
+  Author: Quinn Michaels
+  Date: Feb 7, 2021
+  Copyright: Copyright (c)2021 Quinn Michaels. All Rights Reserved
+  License: MIT
     Permission is hereby granted, free of charge, to any person obtaining a
     copy of this PROGRAM and associated documentation files (the "PROGRAM"),
     to deal in the PROGRAM without restriction, including without limitation

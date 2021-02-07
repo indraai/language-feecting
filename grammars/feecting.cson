@@ -1,3 +1,4 @@
+# Copyright (c) 2021 Quinn Michaels
 # If this is your first time writing a language grammar, check out:
 #   - https://flight-manual.atom.io/hacking-atom/sections/creating-a-grammar/
 
@@ -77,7 +78,7 @@
         'name': 'variables.hash.variable'
   }
   {
-    'match': '^\\s*-\\s(\\w*):'
+    'match': '^\\s*[-|\\d+.]\\s(\\w*):'
     'captures':
       '1':
         'name': 'iterator.constant'
@@ -89,7 +90,7 @@
         'name': 'reference.meta.class'
   }
   {
-    'match': '^\\s*(if|then|else|finally|for|while|during|after):'
+    'match': '^\\s*(if|then|else|finally|for|while|when|during|after):'
     'captures':
       '1':
         'name': 'logic.string'
