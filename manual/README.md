@@ -40,7 +40,7 @@ if: condition is met
 > General programming of a script you can use conversational type aspects to relay hashes and instructions to user objects that also reference external properties.
 
 ```
-Hi #TYLER, I'm @quinn. I would like to introduce you to the $FEECTING programming language.
+Hi #DEVA, I'm @quinn. I would like to introduce you to the $FEECTING programming language.
 
 ```
 
@@ -61,13 +61,13 @@ finally: this happens
   - end clause
 ```
 
-> This is for an AI @tyler who while in #TEAM hash will issue some type of #PROTECTION which could be defined in one of the external references that the AI finds in another scope.
+> This is for an AI @Deva who while in #TEAM hash will issue some type of #PROTECTION which could be defined in one of the external references that the AI finds in another scope.
 
 ### IF, THEN, ELSE, FINALLY
 ```
-if: @tyler in #TEAM send an #OFFERING
+if: @deva in #TEAM send an #OFFERING
   then: develop Algorithms
-  else: send @tyler message to join #TEAM
+  else: send @deva message to join #TEAM
   finally: collect Data
 ```
 
@@ -96,7 +96,7 @@ for: condition in CONDITIONS
 for: condition in CONDITIONS
   if: condition is something
     - do: this thing here
-    - talk: @tyler send tyler a message if this condition is met.
+    - talk: @deva send deva a message if this condition is met.
     - think: this is my thought for this action.
     - listen: listening for something here
     - foo: these labels are foo
