@@ -90,7 +90,7 @@
         'name': 'reference.meta.class'
   }
   {
-    'match': '^\\s*(func|method|listener|module|set|if|then|else|finally|wait|for|while|evaluate):'
+    'match': '^\\s*(func|method|listen|module|set|if|then|else|finally|wait|for|while|evaluate):'
     'captures':
       '1':
         'name': 'logic.string'
