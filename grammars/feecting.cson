@@ -90,10 +90,16 @@
         'name': 'reference.meta.class'
   }
   {
-    'match': '^\\s*(if|then|else|finally|for|while|when|what|where|why|how|during|after):'
+    'match': '^\\s*(if|then|else|finally|for|while|after|func|mod|set):'
     'captures':
       '1':
         'name': 'logic.string'
+  }
+  {
+    'match': '^\\s*(who|what|when|where|why|how|pin|note):'
+    'captures':
+      '1':
+        'name': 'variable.other.object.property'
   }
   {
     'match': '^\\s*(\\w*):'
