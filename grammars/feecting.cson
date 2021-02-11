@@ -90,13 +90,13 @@
         'name': 'reference.meta.class'
   }
   {
-    'match': '^\\s*(if|then|else|finally|wait|for|while|who|what|when|where|why|how|after):'
+    'match': '^\\s*(func|method|listener|module|set|if|then|else|finally|wait|for|while|evaluate):'
     'captures':
       '1':
         'name': 'logic.string'
   }
   {
-    'match': '^\\s*(func|mod|set|evaluate|choice|action|outcome|pin|cause|origin|source|birth|exist|options):'
+    'match': '^\\s*(|who|what|when|where|why|how|after|choice|action|outcome|pin|cause|origin|source|birth|exist|options):'
     'captures':
       '1':
         'name': 'variable.other.object.property'
