@@ -90,7 +90,7 @@
         'name': 'reference.meta.class'
   }
   {
-    'match': '^\\s*(if|then|else|finally|for|while|when|during|after):'
+    'match': '^\\s*(if|then|else|finally|for|while|when|what|where|why|how|during|after):'
     'captures':
       '1':
         'name': 'logic.string'
