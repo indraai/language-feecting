@@ -93,13 +93,13 @@
     'match': '^\\s*(if|then|else|finally|wait|for|while|who|what|when|where|why|how|after):'
     'captures':
       '1':
-        'name': 'variable.other.object.property'
+        'name': 'logic.string'
   }
   {
     'match': '^\\s*(func|mod|set|evaluate|choice|action|outcome|pin|cause|origin|source|birth|exist|options):'
     'captures':
       '1':
-        'name': 'logic.string'
+        'name': 'variable.other.object.property'
   }
   {
     'match': '^\\s*(\\w*):'
