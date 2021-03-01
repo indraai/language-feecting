@@ -39,24 +39,24 @@
     'name': 'disclaimer.string'
   }
   {
-    'begin': '-- BEGIN:META'
-    'end': '-- END:META'
+    'begin': ':: BEGIN:LICENSE'
+    'end': ':: END:LICENSE'
     'name': 'meta.block.comment'
   }
   {
-    'match': '-- BEGIN:OUTLINE'
+    'match': ':: BEGIN:OUTLINE'
     'name': 'outline.begin.string.line'
   }
   {
-    'match': '-- END:OUTLINE'
+    'match': ':: END:OUTLINE'
     'name': 'outline.end.string.line'
   }
   {
-    'match': '-- BEGIN:PROGRAM'
+    'match': ':: BEGIN:PROGRAM'
     'name': 'program.begin.string.line'
   }
   {
-    'match': '-- END:PROGRAM'
+    'match': ':: END:PROGRAM'
     'name': 'program.end.string.line'
   }
   {
@@ -90,13 +90,13 @@
         'name': 'reference.meta.class'
   }
   {
-    'match': '^\\s*(func|method|listen|module|set|if|then|else|finally|wait|for|while|evaluate):'
+    'match': '^\\s*(do|for|while|during|set|listen|func|method|module|evaluate|learn|observe|if|then|else|finally|wait):'
     'captures':
       '1':
         'name': 'logic.string'
   }
   {
-    'match': '^\\s*(|who|what|when|where|why|how|after|choice|action|outcome|pin|cause|origin|source|birth|exist|options):'
+    'match': '^\\s*(who|what|when|where|why|how|after|choice|action|outcome|pin|birth|origin|cause|source|exist|options):'
     'captures':
       '1':
         'name': 'variable.other.object.property'
