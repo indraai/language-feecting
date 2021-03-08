@@ -16,20 +16,6 @@
     'name': 'comment.line.double-slash'
   }
   {
-    'match': '(https:\/\/\\w+.\\w+)\\s|$'
-    'captures':
-      '0':
-        'name': 'hyperlink.link.underline.entity.https'
-    'name': 'hyperlink'
-  }
-  {
-    'match': '(http:\/\/\\w+.\\w+)\\s|$'
-    'captures':
-      '0':
-        'name': 'hyperlink.link.underline.entity.http'
-    'name': 'hyperlink'
-  }
-  {
     'begin': '///'
     'end': '///'
     'name': 'comment.block'
@@ -102,19 +88,17 @@
         'name': 'variable.other.object.property'
   }
   {
-    'match': '^\\s*(\\w*):'
+    'match': '^\\s*(\\.+):'
     'captures':
       '1':
         'name': 'valueLabel.keyword'
   }
   {
-    'match': '^\\s*(\\.+)\\[(\\.+)\\]\\:\\s?(.+)'
+    'match': '^\\s*(\\.+)\\[(\\.+)\\]\\:'
     'captures':
       '1':
         'name': 'valueLabel.keyword'
       '2':
         'name': 'variable.other.object.property'
-      '3':
-        'name': 'logic.string'
   }
 ]
