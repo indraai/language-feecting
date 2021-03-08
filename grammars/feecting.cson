@@ -107,4 +107,14 @@
       '1':
         'name': 'valueLabel.keyword'
   }
+  {
+    'match': '^\\s*(\\w*)\\[(\\.+)\\]:\\s?(.+)'
+    'captures':
+      '1':
+        'name': 'valueLabel.keyword'
+      '2':
+        'property': 'variable.other.object.property'
+      '3':
+        'value': 'logic.string'
+  }
 ]
