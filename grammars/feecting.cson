@@ -108,7 +108,7 @@
         'name': 'valueLabel.keyword'
   }
   {
-    'match': '^\\s*(\\w*)\\[(\\.+)\\]:\\s?(.+)'
+    'match': '^\\s*(\\.+)\\[(\\.+)\\]\\:\\s?(.+)'
     'captures':
       '1':
         'name': 'valueLabel.keyword'
