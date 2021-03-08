@@ -113,8 +113,8 @@
       '1':
         'name': 'valueLabel.keyword'
       '2':
-        'property': 'variable.other.object.property'
+        'name': 'variable.other.object.property'
       '3':
-        'value': 'logic.string'
+        'name': 'logic.string'
   }
 ]
