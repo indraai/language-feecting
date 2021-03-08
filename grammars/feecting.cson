@@ -110,9 +110,9 @@
   {
     'match': '^\\s*(\\w*)\\[(\\w*)\\]:'
     'captures':
-      '0':
-        'name': 'valueLabel.keyword'
       '1':
+        'name': 'valueLabel.keyword'
+      '2':
         'name': 'logic.string'
   }
 ]
