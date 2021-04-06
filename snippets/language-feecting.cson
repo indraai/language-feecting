@@ -14,9 +14,11 @@
 
   'BEGIN':
     'prefix': 'begin'
-    'body': '''::BEGIN:$1
+    'body': '''
+    ::BEGIN:$1
     $2
-    ::END:$1'''
+    ::END:$1
+    '''
 
   'Base Template':
     'prefix': 'feecting'
