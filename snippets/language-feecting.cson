@@ -12,6 +12,12 @@
     'prefix': '#'
     'body': '#$1 = $2'
 
+  'BEGIN':
+    'prefix': 'begin'
+    'body': '''::BEGIN:$1
+    $2
+    ::END:$1'''
+
   'Base Template':
     'prefix': 'feecting'
     'body': '''$feecting
@@ -20,29 +26,18 @@
     ## DISCLAIMER
     > $2
 
-    // VARIABLES
-    @$3 = $4
-
-    -- BEGIN:OUTLINE
-    who: $5
-    what: $6
-    when: $7
-    where: $8
-    why: $9
-    -- END:OUTLINE
-
-    -- BEGIN:PROGRAM
+    ::BEGIN:PROGRAM
 
     $10
 
-    -- END:PROGRAM
+    ::END:PROGRAM
 
-    -- BEGIN:META
+    ::BEGIN:META
     Title: $1
     Version: 0.0.1
-    Author: @$4
-    Date: $7
-    Copyright: Copyright (c)$11 @$4. All Rights Reserved
+    Author: @$3
+    Date: $4
+    Copyright: Copyright (c)$5 @$3. All Rights Reserved
     License: MIT
       Permission is hereby granted, free of charge, to any person obtaining a
       copy of this PROGRAM and associated documentation files (the "PROGRAM"),
@@ -61,5 +56,5 @@
       CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
       TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
       PROGRAM OR THE USE OR OTHER DEALINGS IN THE PROGRAM.
-    -- END:META
+    ::END:META
 '''
