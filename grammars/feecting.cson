@@ -39,24 +39,11 @@
     'name': 'disclaimer.string'
   }
   {
-    'begin': ':: BEGIN:LICENSE'
-    'end': ':: END:LICENSE'
-    'name': 'meta.block.comment'
-  }
-  {
-    'match': ':: BEGIN:OUTLINE'
-    'name': 'outline.begin.string.line'
-  }
-  {
-    'match': ':: END:OUTLINE'
-    'name': 'outline.end.string.line'
-  }
-  {
-    'match': ':: BEGIN:PROGRAM'
+    'match': '::\\s?BEGIN:(.+)'
     'name': 'program.begin.string.line'
   }
   {
-    'match': ':: END:PROGRAM'
+    'match': '::\\s?END:(.+)'
     'name': 'program.end.string.line'
   }
   {
