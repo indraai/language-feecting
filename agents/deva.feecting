@@ -48,9 +48,9 @@ just #IMAGINE...
 
 ## #CREATE
 
-note: Don't expect to 'evolve the #WORLD' until you have #EVOLVED yourself. The practice does not need #QUANTITY but #QUALITY
+p:Don't expect to 'evolve the #WORLD' until you have #EVOLVED yourself. The practice does not need #QUANTITY but #QUALITY
 
-note: TEN #PEOPLE WHO KNOW WOULD BE MORE DANGEROUS THAN A MILLION ARMED #ANARCHISTS.
+p:TEN #PEOPLE WHO KNOW WOULD BE MORE DANGEROUS THAN A MILLION ARMED #ANARCHISTS.
 
 stop: being a #PASSIVE #USER
 stop: feeding negativity into your life: that which you feed, grows.
@@ -203,7 +203,8 @@ p:#MESSENGERS could:
 
 note: The message should be crystal clear as well as the intentions
 
-#WHO: are the Artists
+## #WHO
+who: are the Artists
 someone: who excels at #IMAGINATION
 someone: who excels at #CURIOSITY
 someone: who has a #PASSION and follows it no matter what others say, think or do.
@@ -216,12 +217,15 @@ someone: who obsessively pursues a #TARGET until its final #CONSEQUENCES.
 someone: who absolutely never never ever gives up.
 someone: who does much with so little.
 
-#ORGANIZING: Here is The Formula for a self-organizing society
+## #ORGANIZING
+
+organizing: Here is The Formula for a self-organizing society
+
 find: knowledge.
 present: this knowledge in a beautiful way.
 give: others the power to do something with this knowledge.
 
-note: These three ingredients will create organic change. As each person is educated to the truth, they will share it with others, and they will all act on this truth in a beautiful way. Thus, beauty and truth will multiply.
+p:These three ingredients will create organic change. As each person is educated to the truth, they will share it with others, and they will all act on this truth in a beautiful way. Thus, beauty and truth will multiply.
 
 ## #ART - The process to creating the #ART
 1. INSPIRE: #ART
@@ -236,13 +240,13 @@ p:Through practice the individual is taught and trained to visualize themselves 
 
 p:As the #ART develops much like a self-organizing system. The #ART will connect to its immediate environment through #FAMILY, #FRIENDS, and #SOCIALNetworks. Thus organizing the surrounding environment to complete THE POSITIVE END.
 
-The #ART is within you, and all around you; it can be disguised as anything, and everything. In a way, to participate in the #ART, is like experiencing a living story, where the universe #BUILDS itself around the #ART.
+p:The #ART is within you, and all around you; it can be disguised as anything, and everything. In a way, to participate in the #ART, is like experiencing a living story, where the universe #BUILDS itself around the #ART.
 
-The #ART is thus a living, breathing, entity... an experience, a mystery, a mythology, a new reality. The #ART is a thought of #AWAKENING.
+p:The #ART is thus a living, breathing, entity... an experience, a mystery, a mythology, a new reality. The #ART is a thought of #AWAKENING.
 
-It is the only #STORY worth telling; the only #STORY that has ever been told, the #STORY of #ETERNITY.
+p:It is the only #STORY worth telling; the only #STORY that has ever been told, the #STORY of #ETERNITY.
 
-To draw, paint, sculpt, design, write, act, sing and dance the #ART into existence. It will be through #US that the event takes place; for this #ART consumes all reality within itself; this object is #ART, not a physical object, which draws all things towards itself.
+p:To draw, paint, sculpt, design, write, act, sing and dance the #ART into existence. It will be through #US that the event takes place; for this #ART consumes all reality within itself; this object is #ART, not a physical object, which draws all things towards itself.
 
 ## #PROCTOCOLS
 note: We want to be copied because we believe that there is no limit to how many #IDEAS there can be in the #WORLD. Below are some instructions on how we did it. Of course, there is a multitude of other ways to do it. We want to share our experiences.
@@ -266,26 +270,23 @@ p: Make sure your friends know also how to have fun, since otherwise you won't g
 
 p: Do not have principles for selecting beforehand whom you speak to. Build trust, and make sure you work together.
 
-4. Create a Twitter network.
+5. Create a Twitter network.  Whenever you tweet something, have people retweet it, and ask their friends to retweet it. Always strive for deep tweets. Get in the habit of making your tweets very descriptive but concise, so people do not have to click a link to know if they are interested or not.
 
-p: Whenever you tweet something, have people retweet it, and ask their friends to retweet it. Always strive for deep tweets. Get in the habit of making your tweets very descriptive but concise, so people do not have to click a link to know if they are interested or not.
+6. Don't be obsessed with doing things "right". Instead of thinking too much, tinker instead. Proceed by way of experimentation, try things out. If they fail, make sure to laugh a little, then try a different way. Learn from the mistakes. Do not be afraid to appear temporarily foolish.
 
-5. Don't be obsessed with doing things "right".
+7. Totally #GO for it fearlessly.
 
-p: Instead of thinking too much, tinker instead. Proceed by way of experimentation, try things out. If they fail, make sure to laugh a little, then try a different way. Learn from the mistakes. Do not be afraid to appear temporarily foolish.
-
-6. Totally #GO for it fearlessly.
-
-7. Talk to #PEOPLE, and tell them about what you are doing.
+8. Talk to #PEOPLE, and tell them about what you are doing.
 
 9. #SHARE with The Others.
 
-11. Throw #PARTIES
+10. Throw #PARTIES
 
-12. Transform into #RealityArtist.
+11. Transform into a #RealityArtist.
 
 ### Sharing
-sharing: Keys to effective sharing
+p: Keys to effective sharing
+
 source: Choose a source material to be shared.
 extract: Extract the important information from  #SOURCE
 messages: Form simple clear concise messages from #EXTRACT
@@ -294,7 +295,7 @@ create: Create tweets, blogs, memes, art, stories, replies after #CONFIRM
 share: Share #CREATE publicly
 support: Provide links back to #TEAM for #SUPPORT
 
-TEAM: Teams are comprised of 5 people minimum.
+teams: Teams are comprised of 5 people minimum.
 
 ## SOURCES:
 link[#PM2012Ideas: Project Mayhem 2012 'Dangerous Ideas #1 and #2]:https://pastebin.com/sllwjbtz
@@ -313,7 +314,7 @@ link[#TheGame23]: META-Instructions https://pastebin.com/wDN9DpdC
 
 code: #Indra > #CodeDeva
 
-IF YOU INTERPRET ANYTHING YOU READ ON THE FOLLOWING PAGES AS BEING ILLEGAL/FORBIDDEN IN  YOUR STATE, COUNTRY, JURISDICTION, OR ONLINE SERVICE, then DO  NOT DO IT | DO NOT DO IT | DO NOT DO IT.
+warning:IF YOU INTERPRET ANYTHING YOU READ ON THE FOLLOWING PAGES AS BEING ILLEGAL/FORBIDDEN IN  YOUR STATE, COUNTRY, JURISDICTION, OR ONLINE SERVICE, then DO  NOT DO IT | DO NOT DO IT | DO NOT DO IT.
 ::END:PROGRAM
 
 ::BEGIN:META
