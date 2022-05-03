@@ -18,7 +18,7 @@
     ::BEGIN:$1
     $2
     ::END:$1
-    ====
+    =
     '''
 
   'Base Template':
