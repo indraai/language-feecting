@@ -1,5 +1,3 @@
-Copyright (c) 2021 Quinn Michaels
-
 # FEECTING README
 The #Feecting Language is a meta hybrid bootstrapped Artificial
 Intelligence laguage for the #FUTURE. Taking cues from every language #FEECTING
@@ -19,3 +17,5 @@ The #FEECTING language can be installed into your Atom editor by going to:
 
 or from a terminal
 `$ apm install language-feecting`
+
+Copyright (c) 2022 Quinn Michaels. All Rights Reserved.
