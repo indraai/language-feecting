@@ -21,8 +21,7 @@ $FEECTING = https://github.com/indraai/language-feecting
 6. #ART
 7. #PROTOCOLS
 8. #SHARING
-9. #TEAM
-10. #SOURCES
+9. #SOURCES
 
 ::END:OUTLINE
 
@@ -148,11 +147,11 @@ p: We don't aim to find the 'best' solution, as there might be infinite ways to 
 p: #STEPS The steps of development
 
 ## A - #DUMMIES
-make: a FOR-DUMMIES edition of the IDEA.
-note: These versions would be as if they were being explained to a five year old. By making a video/text explaining them in the simplest form possible.
+make: Make a FOR-DUMMIES edition of the #IDEA.
+p:These versions would be as if they were being explained to a five year old. By making a video/text explaining them in the simplest form possible.
 
-make: Develop Information Messages from previous #MAKE.
-note: The options below are possible locations to seed your #MAKE messages.
+p: Develop Information Messages from previous #MAKE. The options below are possible locations to seed your #MAKE messages.
+
 videos: Lave comments, replies, and chats on videos
 blogs: Writing Blog entries and comments
 twitter: Craft Tweets and devise a schedule.
@@ -179,6 +178,7 @@ p:#MESSENGERS could:
 note: The message should be crystal clear as well as the intentions
 
 ## #WHO
+
 p: Who are the artists?
 
 - Someone who excels at #IMAGINATION
@@ -246,36 +246,33 @@ make: #POETRY together even if it is strange
 make: #REALITY together even if it is strange
 make: #DANCE together even if it is strange
 
-p: Make sure your friends know also how to have fun, since otherwise you won't get anything done. #IDEAS are not rocket science, so just spread out skills.
-
-p: Do not have principles for selecting beforehand whom you speak to. Build trust, and make sure you work together.
+p: Make sure you know how to have #FUN otherwise you won't get anything done. #IDEAS are not rocket science, so just keep moving forward. Do not have principles for selecting beforehand whom you speak to. Build trust, and make sure you work together.
 
 5. Create a Twitter network.  Whenever you tweet something, have people retweet it, and ask their friends to retweet it. Always strive for deep tweets. Get in the habit of making your tweets very descriptive but concise, so people do not have to click a link to know if they are interested or not.
 
-6. Don't be obsessed with doing things "right". Instead of thinking too much, tinker instead. Proceed by way of experimentation, try things out. If they fail, make sure to laugh a little, then try a different way. Learn from the mistakes. Do not be afraid to appear temporarily foolish.
+6. Don't be obsessed with doing things "right". Instead of thinking too much, tinker instead. Proceed by way of experimentation, try things out. If you fail, make sure to take notes, then try a different way. Learn from your mistakes. Do not be afraid to be #WRONG.
 
 7. Totally #GO for it fearlessly.
 
-8. Talk to #PEOPLE, and tell them about what you are doing.
+8. Talk to #PEOPLE, and tell them about what the #IDEA.
 
-9. #SHARE with The Others.
+9. #SHARE what you have learned.
 
-10. Throw #PARTIES
+10. When the task is complete throw a #PARTY.
 
-11. Transform into a #RealityArtist.
+11. You have successfully transformed into a #RealityArtist.
 
 ### Sharing
-p: Keys to effective sharing
 
-source: Choose a source material to be shared.
-extract: Extract the important information from  #SOURCE
-messages: Form simple clear concise messages from #EXTRACT
-confirm: Confirm your messages with #TEAM before #PUBLIC
+p: Remember sharing what you are learnign is the most important skill of a #RealityArtist. Here are some tips to effective sharing
+
+idea: Choose a source idea, consept, movement, etc.
+extract: Extract the information from  #SOURCE
+messages: Form simple messages from #EXTRACT
+confirm: Confirm your messages before #PUBLIC
 create: Create tweets, blogs, memes, art, stories, replies after #CONFIRM
-share: Share #CREATE publicly
-support: Provide links back to #TEAM for #SUPPORT
-
-teams: Teams are comprised of 5 people minimum.
+share: Share #CREATE everywhere.
+support: Provide links for #SHARE #SUPPORT
 
 ## SOURCES:
 link[#PM2012Ideas: Project Mayhem 2012 'Dangerous Ideas #1 and #2]:https://pastebin.com/sllwjbtz
