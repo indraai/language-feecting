@@ -1,12 +1,13 @@
-# Deva Specification and Instructions
+$FEECTING = https://github.com/indraai/language-feecting
 
-## DISCLAIMER
-> This is the basic structure and specification for #Deva
+# Deva Instructions
+
+::BEGIN:DISCLAIMER
+P:This is the basic structure and specification for #Deva. Use at your own risk.
+::END:DISCLAIMER
 
 // VARIABLES
-$FEECTING = https://github.com/indraai/language-feecting
 @Deva = https://twitter.com/DevaBuddhism
-
 #IDEA = Any concept existing in the mind as a result of mental understanding, awareness, or activity.
 #IMAGINE = To form a mental image or concept of an #IDEA.
 
@@ -27,7 +28,10 @@ $FEECTING = https://github.com/indraai/language-feecting
 
 ::BEGIN:PROGRAM
 
-## #IDEAS: The base ideas we are working with.
+## #IDEAS
+
+p:The base ideas we are working with.
+
 ### #IMAGINE
 imagine: #IDEAS
 imagine: becoming the #ARTIST to those #IDEAS
@@ -43,8 +47,7 @@ imagine: we are no longer afraid of #IDEAS
 imagine: we all synchronize to act in #HARMONY
 imagine: we thank all of #CREATION
 
-imagine: this #IDEA goes #VIRAL
-just #IMAGINE...
+imagine: this #IDEA goes #VIRAL. just #IMAGINE...
 
 ## #CREATE
 
