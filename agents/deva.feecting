@@ -289,12 +289,13 @@ warning:IF YOU INTERPRET ANYTHING YOU READ ON THE FOLLOWING PAGES AS BEING ILLEG
 ::END:PROGRAM
 
 ::BEGIN:META
-Title: Deva Instructions
-Version: 1.10
-Author: Quinn Michaels
-Date: MAY 3, 2022
-Copyright: Copyright (c)2022 Quinn Michaels. All Rights Reserved
-License: MIT
+title: Deva Instructions
+version: 1.10
+author: Quinn Michaels
+date: MAY 3, 2022
+copyright: Copyright (c)2022 Quinn Michaels. All Rights Reserved
+license: MIT
+
 p:Permission is hereby granted, free of charge, to any person obtaining a copy of this PROGRAM and associated documentation files (the "PROGRAM"), to deal in the PROGRAM without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM is furnished to do so, subject to the following conditions:
 
 p:The above copyright notice and this permission notice shall be included in all copies or substantial portions of the PROGRAM.
