@@ -16,15 +16,12 @@ $FEECTING = https://github.com/indraai/language-feecting
 
 ::BEGIN:OUTLINE
 
-1. #IDEAS
+1. #TRUTH
 2. #STEPS
-3. #WHO
-4. #ORGANIZING
-5. #ART
-6. #PROTOCOLS
-7. #SHARING
-8. #GENERATOR
-9. #SOURCES
+3. #ORGANIZING
+4. #TIPS
+5. #GENERATOR
+6. #SOURCES
 
 ::END:OUTLINE
 
@@ -71,7 +68,7 @@ remember: Remember #NEVER do anything #ILLEGAL and/or against your own #CONSCIOU
 
 ## Steps
 
-p: #STEPS The steps of development
+p: #STEPS The steps to success.
 
 ### 1 - DUMMIES
 make: Make a FOR-DUMMIES edition of the #IDEA.
@@ -190,9 +187,9 @@ link[#TheGame23 META-Instructions]:https://pastebin.com/wDN9DpdC
 
 ::BEGIN:META
 title: Deva Instructions
-version: 1.10
+version: 1.11
 author: Quinn Michaels
-date: MAY 3, 2022
+date: MAY 7, 2022
 copyright: Copyright (c)2022 Quinn Michaels. All Rights Reserved
 license: MIT
 
