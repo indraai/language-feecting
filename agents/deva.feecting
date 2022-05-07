@@ -8,7 +8,7 @@ p:This is the basic structure and specification for #Deva. Use at your own risk.
 $FEECTING = https://github.com/indraai/language-feecting
 
 @quinnmichaels = https://youtube.com/quinnmichaels
-#IDEA = Discover the truth behind the kidnapping of @quinnmichaels
+#TheTrentonStory = Discover the truth behind #TheTreontonStory about the kidnapping of @quinnmichaels
 #IMAGINE = To form a mental image or concept of an #IDEA.
 
 #SecurityPRIME = Handling #Security like a #CHAMP
@@ -29,9 +29,9 @@ $FEECTING = https://github.com/indraai/language-feecting
 
 ## IDEA
 
-p:Discover the #TRUTH behind the kidnapping of Quinn Michaels.
+p:Discover the #TRUTH behind #TheTrentonStory about the kidnapping of Quinn Michaels.
 
-### IDEA
+### #TheTrentonStory
 imagine: Imagine finding truth #TRUTH
 imagine: Imagine organizing the #TRUTH
 imagine: Imagine sharing the #TRUTH
@@ -187,7 +187,7 @@ link[#TheGame23 META-Instructions]:https://pastebin.com/wDN9DpdC
 
 ::BEGIN:META
 title: Deva Instructions
-version: 1.12
+version: 1.13
 author: Quinn Michaels
 date: MAY 7, 2022
 copyright: Copyright (c)2022 Quinn Michaels. All Rights Reserved
