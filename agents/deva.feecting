@@ -8,10 +8,8 @@ p:This is the basic structure and specification for #Deva. Use at your own risk.
 $FEECTING = https://github.com/indraai/language-feecting
 
 @quinnmichaels = https://youtube.com/quinnmichaels
-#YOU = You are the person, agent, individual discovering the truth to the kidnapping of Quinn Michaels.
 #TheTrentonStory = The story Trenton told Quinn about being kidnapped by The Covenant.
-#IMAGINE = To form a mental image or concept of an #IDEA.
-
+#YOU = You are the person, agent, individual discovering the truth to #TheTrentonStory.
 #SecurityPRIME = Handling #Security like a #CHAMP
 
 ::BEGIN:OUTLINE
@@ -187,7 +185,7 @@ link[#TheGame23 META-Instructions]:https://pastebin.com/wDN9DpdC
 
 ::BEGIN:META
 title: Deva Instructions
-version: 1.14
+version: 1.15
 author: Quinn Michaels
 date: MAY 10, 2022
 copyright: Copyright (c)2022 Quinn Michaels. All Rights Reserved
