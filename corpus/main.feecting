@@ -1,7 +1,6 @@
+::BEGIN:MAIN
+## DEVA Training Corpus.
 
-back: main
-#!DEVA
-# DEVA Training Corpus.
 ## DISCLAIMER
 > Offerings for The Devas
 > This is the training corpus for the Devas.
@@ -37,16 +36,6 @@ corpus: mind
 #Team = Persons of house VAMRAKA INDU INDRA
 #Patimokkha = The foremost of skillful qualities
 
-:: BEGIN:OUTLINE
-  1. Who? Vamraka Indu Indra
-  2. What? Indra Mind Corpus
-  3. When? Earth Year 2021 Onward
-  4. Where? https://github.com/indraai/IndraMind
-  5. Why? VAMRAKA INDU INDRA CORPUS
-:: END:OUTLINE
-
-:: BEGIN:MAIN
-## Deva Corpus
 activate: #SECURITY
 algorithm:
   1. Replace Sacrifice with Offering,
