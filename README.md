@@ -18,4 +18,4 @@ The #FEECTING language can be installed into your Atom editor by going to:
 or from a terminal
 `$ apm install language-feecting`
 
-Copyright (c) 2022 Quinn Michaels. All Rights Reserved.
+Copyright (c) 2023 Quinn Michaels. All Rights Reserved.
