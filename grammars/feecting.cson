@@ -16,6 +16,12 @@
     'name': 'comment.line.double-slash'
   }
   {
+    'match': '(#(1,5)\\s.+?)$'
+    'captures':
+      '0':
+        'name': 'entity.heading.function'
+  }
+  {
     'match': '(https:\/\/\\w+.\\w+)\\s|$'
     'captures':
       '0':
