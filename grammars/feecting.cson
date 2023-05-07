@@ -47,19 +47,19 @@
     'name': 'program.end.string.line'
   }
   {
-    'match': '(\\$.*?)\\w+?\\b',
+    'match': '(\\$\\w+?)\\b',
     'captures':
       '0':
         'name': 'variables.external.constant'
   }
   {
-    'match': '(\\@.*?)\\\w+?\\b',
+    'match': '(\\@\\w+?)\\b',
     'captures':
       '0':
         'name': 'variables.user.entity.name.function'
   }
   {
-    'match': '(\\#.*?)\\w+?\\b',
+    'match': '(\\#\\w+?)\\b',
     'captures':
       '0':
         'name': 'variables.hash.variable'
