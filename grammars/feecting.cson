@@ -88,6 +88,14 @@
       '0':
         'name': 'variable.other.object.property'
   }
+
+  {
+    'match': '({{.*?}}|::.*?::)'
+    'captures':
+      '0':
+        'name': 'valueLabel.keyword'
+  }
+
   {
     'match': '^\\s*(\\w*):'
     'captures':
