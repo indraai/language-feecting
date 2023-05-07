@@ -97,10 +97,10 @@
   }
 
   {
-    'match': '({{.*?}}|::.*?::)'
+    'match': '(\\B{{.*?}}|:?:.*?:?:)\\B'
     'captures':
       '0':
-        'name': 'valueLabel.keyword'
+        'name': 'variables.output.meta.class'
   }
 
   {
