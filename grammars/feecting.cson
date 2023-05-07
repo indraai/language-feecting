@@ -16,13 +16,6 @@
     'name': 'comment.line.double-slash'
   }
   {
-    'match': '(#\\s.+?)$'
-    'captures':
-      '0':
-        'name': 'comment.line'
-    'name': 'comment.line.double-slash'
-  }
-  {
     'match': '(https:\/\/\\w+.\\w+)\\s|$'
     'captures':
       '0':
