@@ -9,7 +9,14 @@
 ]
 'patterns': [
   {
-    'match': '([\\/\\/\\|\\#]\\s.*)$'
+    'match': '(\\/\\/\\s.+?)$'
+    'captures':
+      '0':
+        'name': 'comment.line'
+    'name': 'comment.line.double-slash'
+  }
+  {
+    'match': '(#\\s.+?)$'
     'captures':
       '0':
         'name': 'comment.line'
