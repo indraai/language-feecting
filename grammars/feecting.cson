@@ -83,7 +83,7 @@
         'name': 'reference.meta.class'
   }
   {
-    'match': '^\\s*(do|for|while|during|set|listen|func|method|module|evaluate|learn|observe|if|then|else|finally|wait):'
+    'match': '^\\s*(if|elseif|else|then|try|catch|finally|case|switch|do|set|listen|func|method|module|evaluate|learn|observe|wait):'
     'captures':
       '0':
         'name': 'logic.string'
@@ -95,7 +95,7 @@
         'name': 'logic.string'
   }
   {
-    'match': '[^|\\s+]?(who|what|when|where|why|how|after|choice|action|outcome|pin|birth|origin|cause|source|exist|options):'
+    'match': '[^|\\s+]?(talk|for|while|who|what|when|where|why|how|after|choice|action|outcome|pin|birth|origin|cause|source|exist|options):'
     'captures':
       '0':
         'name': 'variable.other.entity.name.function'
