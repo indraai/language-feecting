@@ -98,7 +98,7 @@
     'match': '[^|\\s+]?(who|what|when|where|why|how|after|choice|action|outcome|pin|birth|origin|cause|source|exist|options):'
     'captures':
       '0':
-        'name': 'variable.other.object.property'
+        'name': 'variable.other.entity.name.function'
   }
 
   {
