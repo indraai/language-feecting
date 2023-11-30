@@ -95,7 +95,7 @@
         'name': 'logic.string'
   }
   {
-    'match': '[^|\\s+]?(func|method|module|talk|for|while|who|what|when|where|why|how|after|choice|action|outcome|pin|birth|origin|cause|source|exist|options):'
+    'match': '[^\\s*(func|method|module|talk|for|while|who|what|when|where|why|how|after|choice|action|outcome|pin|birth|origin|cause|source|exist|options):'
     'captures':
       '0':
         'name': 'variable.other.entity.name.function'
